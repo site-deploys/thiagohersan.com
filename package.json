@@ -15,8 +15,6 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "start": "./genLists.py; hexo server -p 4444",
-    "generate": "./genLists.py; hexo generate",
-    "clean": "hexo clean"
+    "start": "./genLists.py; hexo server -p 4444"
   }
 }
