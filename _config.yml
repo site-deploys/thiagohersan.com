@@ -28,6 +28,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
+default_cover: /images/covers/tgh-300x90.jpg
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
