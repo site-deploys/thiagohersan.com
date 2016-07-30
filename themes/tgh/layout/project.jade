@@ -1,0 +1,7 @@
+extends _partial/base.jade
+
+block content
+  if page.cover
+    h2 #{page.title}
+  content
+    != page.content

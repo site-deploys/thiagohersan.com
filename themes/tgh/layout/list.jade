@@ -1,0 +1,7 @@
+extends _partial/base.jade
+
+block content
+  h1 Welcome to #{page.title}
+  each post in page.posts
+    h2 #{post.title}
+    img(src="#{post.cover}")
