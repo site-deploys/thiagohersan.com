@@ -2,7 +2,7 @@
 layout: project
 category: collaboration
 title: 'Um jardim para Epicuro'
-description: 'Collaborative garden'
+description: 'collaborative garden'
 url: um-jardim-para-epicuro/
 date: 2010-11-01T00:00:00
 cover: /images/covers/jandig-300x90.jpg

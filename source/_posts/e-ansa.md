@@ -2,7 +2,7 @@
 layout: project
 category: collaboration
 title: 'E-ansã'
-description: 'Reactive dress'
+description: 'reactive dress'
 url: e-ansa/
 date: 2010-10-01T00:00:00
 cover: /images/covers/eansa-300x90.jpg

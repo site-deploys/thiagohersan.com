@@ -2,7 +2,7 @@
 layout: project
 category: project
 title: 'Dear Obama, ...'
-description: 'Performance/Protest'
+description: 'performance/protest'
 url: dear-obama/
 date: 2009-01-01T00:00:00
 cover: /images/covers/dearObama-300x90.jpg

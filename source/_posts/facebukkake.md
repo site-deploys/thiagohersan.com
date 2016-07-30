@@ -2,7 +2,7 @@
 layout: project
 category: project
 title: 'Facebukkake'
-description: 'Online performance'
+description: 'online performance'
 url: facebukkake/
 date: 2010-10-10T00:00:00
 cover: /images/covers/facebukkake-300x90.jpg

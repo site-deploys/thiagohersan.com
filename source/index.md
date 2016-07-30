@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Thiago Hersan'
-description: 'Projects and stuff'
+description: 'projects and stuff'
 date: 2016-01-01T00:00:00
 ---
 I used to design circuits and improve semiconductor manufacturing technologies.

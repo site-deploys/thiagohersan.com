@@ -2,7 +2,7 @@
 layout: project
 category: collaboration
 title: 'UN_TIT_LED'
-description: 'Interactive installation'
+description: 'interactive installation'
 url: un_tit_led/
 date: 2011-05-01T00:00:00
 cover: /images/covers/UN_TIT_LED-300x90.jpg
