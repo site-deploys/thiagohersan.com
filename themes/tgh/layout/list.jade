@@ -3,5 +3,6 @@ extends _partial/base.jade
 block content
   h1 Welcome to #{page.title}
   each post in page.posts
-    h2 #{post.title}
-    img(src="#{post.cover}")
+    .project-listing-container
+      a(href='#{config.url}#{page.url}#{post.url}')
+        img(src="#{post.cover}" alt='#{post.title}' title='#{post.title}')

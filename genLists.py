@@ -13,6 +13,7 @@ def getDate(i):
 if __name__ == "__main__":
     SOURCE_DIR = "source"
     POST_DIR = join(SOURCE_DIR, "_posts")
+    POST_PERMALINK_DIR = "project"
     PAGE_TITLE = "Thiago Hersan"
 
     for filename in [f for f in listdir(POST_DIR) if f.endswith(".md")]:
@@ -40,7 +41,7 @@ if __name__ == "__main__":
             out.write("layout: list\n")
             out.write("title: '"+PAGE_TITLE+"'\n")
             out.write("description: '"+outDirName.title()+"'\n")
-            out.write("url: "+outDirName+"/\n")
+            out.write("url: /"+POST_PERMALINK_DIR+"/\n")
             out.write("posts: \n")
             for post in val:
                 tabString = "  - "
