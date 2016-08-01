@@ -1,10 +1,10 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from os import listdir, system
-from os.path import join, isdir
+from os import listdir, makedirs
+from os.path import join, exists
 from time import sleep
-from re import sub
+from re import sub, search
 from slugify import slugify
 
 posts = []
@@ -27,7 +27,11 @@ if __name__ == "__main__":
                     (key, val) = line.split(':', 1)
                     thisPost[key.strip()] = val.strip()
                 elif chikChikCount >= 2:
-                    content += "%s\n"%line
+                    if("img" in line and "href" in line):
+                        imgFile = search(r".*/([\S]+.(jpg|png|jpeg|bmp|gif)).*",line).group(1)
+                        content += "![](%s)\n"%imgFile
+                    else:
+                        content += "%s\n"%line
             thisPost['content'] = content
             posts.append(thisPost)
             txt.close()
@@ -51,3 +55,5 @@ if __name__ == "__main__":
             out.write("---\n")
             out.write(p['content'])
             out.close()
+        if not exists(join(OUT_DIR, outputFileName)):
+            makedirs(join(OUT_DIR, outputFileName))
