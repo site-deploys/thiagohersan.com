@@ -27,11 +27,15 @@ if __name__ == "__main__":
                     (key, val) = line.split(':', 1)
                     thisPost[key.strip()] = val.strip()
                 elif chikChikCount >= 2:
+                    line = sub(r"</?em>", "*", line)
+                    line = sub(r"</?strong>", "**", line)
+                    line = sub(r"</?strong>", "**", line)
+                    line = sub(r"</?p>", "", line)
                     if("img" in line and "href" in line):
                         imgFile = search(r".*/([\S]+.(jpg|png|jpeg|bmp|gif)).*",line).group(1)
-                        content += "![](%s)\n"%imgFile
-                    else:
-                        content += "%s\n"%line
+                        line = "![](%s)"%imgFile
+                    line = sub(r"<a *?href *?= *?\"(.*?)\" *?>(.*?)< *?/ *?a *?>", r"[\2](\1)", line)
+                    content += "%s\n"%line
             thisPost['content'] = content
             posts.append(thisPost)
             txt.close()
