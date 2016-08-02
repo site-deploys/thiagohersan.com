@@ -41,15 +41,18 @@ if __name__ == "__main__":
                     line = sub("&#8221;", '"', line)
                     line = sub("&#8230;", '...', line)
 
-                    if("img" in line and "href" in line):
-                        # replaces <a><img></a> with ![]()
-                        imgFile = search(r".*/([\S]+.(jpg|png|bmp|gif)).*",line).group(1)
-                        line = "![](%s)"%imgFile
+                    if("img" in line):
+                        # replaces <img> with ![]()
+                        line = sub(r"< *img *?src *?= *?\"(([^ ]*?/)+(.+?))\".*?>", r"![](\3)", line)
                         # cleans up "sized" image file references
                         line = sub(r"-[0-9]+x[0-9]+\.(\w{3})", r".\1", line)
-                    # replaces external links <a></a> with []()
-                    line = sub(r"<a *?href *?= *?\"(.*?)\" *?>(.*?)< *?/ *?a *?>", r"[\2](\1)", line)
+                        # cleans up <a>
+                        line = sub(r"< *a *?href *?= *?\"(.*?)\" *?>(.*?)< *?/ *?a *?>", r"\2", line)
+                    else:
+                        # for non img <a> (external links)
+                        line = sub(r"< *a *?href *?= *?\"(.*?)\" *?>(.*?)< *?/ *?a *?>", r"[\2](\1)", line)
                     content += "%s\n"%line
+
             thisPost['content'] = content
             posts.append(thisPost)
             txt.close()
