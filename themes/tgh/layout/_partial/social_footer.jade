@@ -1,0 +1,11 @@
+if page.github || page.vimeo || page.astros
+  #social-footer.social-footer-container
+    if page.github
+      .social-icon
+        a(href="#{page.github}" class="fa fa-github fa-3x" target="_blank")
+    if page.vimeo
+      .social-icon
+        a(href="#{page.vimeo}" class="fa fa-vimeo fa-3x" target="_blank")
+    if page.astros
+      .social-icon
+        a(href="#{page.astros}" class="fo-asterisk fa-3x" target="_blank")
