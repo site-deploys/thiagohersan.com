@@ -27,13 +27,27 @@ if __name__ == "__main__":
                     (key, val) = line.split(':', 1)
                     thisPost[key.strip()] = val.strip()
                 elif chikChikCount >= 2:
+                    # replaces orphan tags
                     line = sub(r"</?em>", "*", line)
                     line = sub(r"</?strong>", "**", line)
-                    line = sub(r"</?strong>", "**", line)
                     line = sub(r"</?p>", "", line)
+                    line = sub(r"<br */>", "", line)
+                    line = sub(r"jpeg", "jpg", line)
+
+                    # replaces html-encoded characters
+                    line = sub("&#8211;", "-", line)
+                    line = sub("&#8217;", "'", line)
+                    line = sub("&#8220;", '"', line)
+                    line = sub("&#8221;", '"', line)
+                    line = sub("&#8230;", '...', line)
+
                     if("img" in line and "href" in line):
-                        imgFile = search(r".*/([\S]+.(jpg|png|jpeg|bmp|gif)).*",line).group(1)
+                        # replaces <a><img></a> with ![]()
+                        imgFile = search(r".*/([\S]+.(jpg|png|bmp|gif)).*",line).group(1)
                         line = "![](%s)"%imgFile
+                        # cleans up "sized" image file references
+                        line = sub(r"-[0-9]+x[0-9]+\.(\w{3})", r".\1", line)
+                    # replaces external links <a></a> with []()
                     line = sub(r"<a *?href *?= *?\"(.*?)\" *?>(.*?)< *?/ *?a *?>", r"[\2](\1)", line)
                     content += "%s\n"%line
             thisPost['content'] = content
