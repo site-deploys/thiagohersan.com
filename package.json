@@ -15,6 +15,6 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "start": "hexo clean; ./genLists.py; hexo server -p 4444"
+    "start": "hexo clean; ./python/genLists.py; hexo server -p 4444"
   }
 }
