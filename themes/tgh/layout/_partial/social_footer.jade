@@ -1,4 +1,4 @@
-if page.github || page.vimeo || page.astros
+if page.github || page.vimeo || page.astros || page.collab || page.www
   #social-footer.social-footer-container
     if page.github
       .social-icon
@@ -9,3 +9,9 @@ if page.github || page.vimeo || page.astros
     if page.astros
       .social-icon
         a(href="#{page.astros}" class="fo-asterisk fa-3x" target="_blank")
+    if page.www
+      .social-icon
+        a(href="#{page.www}" class="fa fa-anchor fa-3x" target="_blank")
+    if page.collab
+      .social-icon
+        a(href="#{page.collab}" class="fa fa-heart fa-3x" target="_blank")
