@@ -1,0 +1,34 @@
+---
+layout: project
+category: draft
+title: Evo-Repro
+description: interactive installation
+url: evo-repro/
+date: 2012-06-24T00:43:01
+cover: /images/covers/evo-repro-300x90.jpg
+---
+In June of 2012 I was invited to collaborate remotely on Evo-Repro, a really awesome project being created by a group of scientists and artists led by the talented [Joana Ricou](http://www.joanaricou.com/) at the [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/) in Pittsburgh.
+
+From [their site](http://evorepro.tumblr.com/):
+
+Evo-Repro is a simulation that explores the relationship between evolution and reproduction. Life’s definition still escapes us but two characteristics are undeniable: life multiplies and life evolves. The two processes serve the same function: the continuation of Life – but it’s hard to separate the two.
+
+![](evo01.png)
+
+Earlier this year, Joana and George Davis built a simulation system to create animations that explores the relationship between reproduction and evolution. Based on an initial population of organisms and parametrized values to guide their eating, growing, competing and reproducing behavior, the ecosystem grows to create beautifully complex colorful patterns.
+
+![](evo02.jpg)
+
+Part of the second stage of development of the project consisted of building an interactive environment where kids could use their bodies to draw on a screen and use colors to guide where and how the organisms grow, evolve and reproduce.
+
+![](evo_interaction.png)
+
+I helped design the drawing interface used during this stage of the project. The interface is just a collection of buttons for the users to pick different colors and brush types. The most fun part of this project was designing the different brush-type effects. There's a web prototype version of the interface [on OpenProcessing](http://www.openprocessing.org/sketch/64067), and code [on github](https://github.com/thiagohersan/evoReproBrushProcessing).
+
+![](evo_interface.png)
+
+The Evo-Repro site has [more](http://evorepro.tumblr.com/post/27481040582/screenshot) [examples](http://evorepro.tumblr.com/post/27353809477/screenshot-from-painting-with-natural-selection) of the [drawings](http://evorepro.tumblr.com/post/27833528115/by-celine-berger) that they’ve been making with the interface.
+
+![](evo_drawing.jpg)
+
+Evo-Repro: Painting with Natural Selection is partially funded by a Spark Award from the Sprout Fund and by a Science Education Partnership Award, led by Dr. John A. Pollock, funded in turn by the National Center for Research Resources, a component of the National Institutes of Health.
