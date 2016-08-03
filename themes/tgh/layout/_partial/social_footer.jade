@@ -1,4 +1,4 @@
-if page.github || page.vimeo || page.astros || page.collab || page.www
+if page.github || page.vimeo || page.astros || page.collab || page.www || page.pics
   #social-footer.social-footer-container
     if page.github
       .social-icon
@@ -6,6 +6,9 @@ if page.github || page.vimeo || page.astros || page.collab || page.www
     if page.vimeo
       .social-icon
         a(href="#{page.vimeo}" class="fa fa-vimeo fa-3x" target="_blank")
+    if page.pics
+      .social-icon
+        a(href="#{page.pics}" class="fa fa-camera fa-3x" target="_blank")
     if page.astros
       .social-icon
         a(href="#{page.astros}" class="fo-asterisk fa-3x" target="_blank")

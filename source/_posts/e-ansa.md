@@ -6,6 +6,10 @@ description: reactive dress
 url: e-ansa/
 date: 2010-11-15T21:30:31
 cover: /images/covers/e-ansa-300x90.jpg
+github: https://github.com/thiagohersan/eAnsaArduino/
+vimeo: https://vimeo.com/54222659/
+www: http://www.onascimento.com/#/e-ans/
+collab: http://www.onascimento.com/
 ---
 This was a collaboration with [Ricardo O'Nascimento](http://www.onascimento.com/), while I was working as a technical adviser for the artistic residents at the São Paulo Museum of Image and Sound.
 
@@ -18,8 +22,6 @@ For this project, I modified a simple RF detector antenna circuit to respond to 
 ![](eansa_sensor.jpg)
 
 An Arduino was used to read the sensor values and program a small external memory bank that controlled 25 columns of small computer fans independently. We could have programmed wave patterns around the dress, but ended up using simpler patterns that were more visually apparent.
-
-Arduino code for analyzing the cell-phone sensor data and firing the fans is available [on github](https://github.com/thiagohersan/eAnsaArduino).
 
 ![](eansa_ff.jpg)
 

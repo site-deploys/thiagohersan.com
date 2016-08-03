@@ -6,8 +6,10 @@ description: public intervention
 url: os-que-chegam-com-a-noite/
 date: 2012-09-17T01:00:29
 cover: /images/covers/os-que-chegam-a-300x90.jpg
+github: https://github.com/thiagohersan/osQueChegamComANoite
+collab: https://vimeo.com/cimarcelle/
 ---
-In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.com/cimarcelle) and Pedro Veneroso with their [project](http://www.noitebrancamg.com.br/portfolio/cinthia-marcelle-e-pedro-veneroso/): *Os Que Chegam Com a Noite*, for [Belo Horizonte’s version](http://www.noitebrancamg.com.br/) of the [Nuit Blanche](http://en.wikipedia.org/wiki/Nuit_Blanche).
+In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.com/cimarcelle) and Pedro Veneroso with their project: *Os Que Chegam Com a Noite*, for Belo Horizonte’s version of the [Nuit Blanche](http://en.wikipedia.org/wiki/Nuit_Blanche).
 
 ![](cinthia_pedro_01.jpg)
 
@@ -24,5 +26,3 @@ In order to do that, we had to build circuits that were capable of switching lig
 The code for the transmitter was a little more complicated because it had to send the on/off signals to all of the receivers… Since I created a graphical interface to visualize the light animations, we decided to use the same interface to generate the code for the transmitter.
 
 ![](osQueChegamGUI.jpg)
-
-Code for [the graphical interface](https://github.com/thiagohersan/NuitBlancheProcessing), [the receivers](https://github.com/thiagohersan/osQueChegamReceiveArduino), and an example [transmitter pattern](https://github.com/thiagohersan/osQueChegamTransmitArduino) are on github.

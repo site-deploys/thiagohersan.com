@@ -6,6 +6,9 @@ description: interactive installation
 url: un-tit-led/
 date: 2011-05-30T23:45:38
 cover: /images/covers/un-tit-led-300x90.jpg
+github: https://github.com/thiagohersan/un_tit_ledArduino
+www: http://lizzydevita.com/un_tit_led
+collab: http://lizzydevita.com/
 ---
 In May of 2011 I helped my friend [Lizzy DeVita](http://lizzydevita.com/) with one of her pieces at the Affordable Art Fair in New York.
 
@@ -20,7 +23,3 @@ From her site: "Each light was pre-programmed to react differently when touched 
 In addition to re-wiring all the lights to run on a few AC power supplies, I also used an Arduino and some simple transistor circuits to create the delays and fades used in some of the lights.
 
 ![](braille003.jpg)
-
-All of these pictures came from [Lizzy's page](http://lizzydevita.com/un_tit_led) for the project.
-
-Code for the Arduino is [on github](https://github.com/thiagohersan/un_tit_ledArduino).

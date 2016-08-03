@@ -6,6 +6,10 @@ description: collaborative vistual installation/exhibition and mobile app
 url: jandig/
 date: 2011-12-03T00:21:19
 cover: /images/covers/jandig-300x90.jpg
+github: https://github.com/memeLab/Jandig/
+pics: http://www.flickr.com/photos/58001963@N04/sets/72157628233698197/
+www: http://memelab.com.br/jandig/
+collab: http://memelab.com.br/
 ---
 This was an interesting collaboration with VJ Pixel and other people at the [memeLab](http://memelab.com.br/).
 
@@ -23,10 +27,6 @@ I was mostly responsible for writing the Java code for the Android application. 
 
 I was also responsible for figuring out how to display animated GIFs using OpenGL textures:
 
-<div class="video">
-    <iframe></iframe>
+<div class="video-wrapper">
+    <iframe width="500" height="375" src="http://www.youtube.com/embed/z-lzqEBYgEU" frameborder="0" allowfullscreen></iframe>
 </div>
-
-The code is available [on github](https://github.com/memeLab/Jandig).
-
-More info at the project's [site](http://memelab.com.br/jandig) and [flickr](http://www.flickr.com/photos/58001963@N04/sets/72157628233698197/).
