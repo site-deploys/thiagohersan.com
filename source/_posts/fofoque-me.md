@@ -37,14 +37,12 @@ These messages are first passed through a series of cell phones before being bro
 
 Since these broadcasts only exist for a short amount of time in a specific physical location, we hope they can promote a unique kind of "social grooming" that motivates physical interactions amongst participants.
 
-<div class="videoWrapper">
+<div class="video-wrapper">
     <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43858648" webkitallowfullscreen="" width="800" height="449"></iframe>
 </div>
 
 The system uses custom software written for the Android platform to trigger the voice synthesis and an Arduino microcontroller that controls the physical interactions of the cell phones.
 
-<div class="videoWrapper">
+<div class="video-wrapper">
     <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43282923" webkitallowfullscreen="" width="800" height="449"></iframe>
 </div>
-
-More info, including additional videos, can be found on the project's [website](http://fofoque.me/). Code for the project is on github: [here](https://github.com/thiagohersan/FofoquemeAndroid) and [here](https://github.com/thiagohersan/fofoquemeArduino).
