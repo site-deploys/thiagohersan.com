@@ -17,4 +17,4 @@ This meant not only physical regularity of the shapes being printed on silicon, 
 
 We implemented an ARM926EJ to test out our methodology of design using only unidirectional metal lines and transistors. It was a great success!
 
-<a href="http://www.thiagohersan.com/wp-content/uploads/2013/05/layout_ARM.jpg">![](layout_ARM.jpg)
+![](layout_ARM.jpg)
