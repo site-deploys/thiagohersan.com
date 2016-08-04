@@ -6,6 +6,8 @@ description: interactive public installation/intervention
 url: not-too-public/
 date: 2013-12-06T05:50:14
 cover: /images/covers/not-too-public-300x90.jpg
+github: https://github.com/thiagohersan/NotTooPublic
+collab: http://www.lo13.com/
 ---
 The internet is great. And it has the potential to democratize access to all kinds of information and types of communication.
 
@@ -23,8 +25,6 @@ Not Too Public provides an interface for passersby to interact with each other t
 
 ![](ko_screen2.jpg)
 
-It's an ongoing collaboration with designer [Ko Nakatsu](http://lo13.com/), and partially supported by [The Great Wall of Oakland](http://greatwallofoakland.org/).
+It's an ongoing collaboration with designer Ko Nakatsu, and partially supported by [The Great Wall of Oakland](http://greatwallofoakland.org/).
 
 ![](ko_screen1.jpg)
-
-Code is [on github](https://github.com/thiagohersan/NotTooPublic).
