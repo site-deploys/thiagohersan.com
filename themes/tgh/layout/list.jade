@@ -1,8 +1,9 @@
 extends _partial/base.jade
 
 block content
-  h1 Welcome to #{page.title}
-  each post in page.posts
-    .project-listing-container
-      a(href='#{config.url}#{page.url}#{post.url}')
-        img(src="#{post.cover}" alt='#{post.title}' title='#{post.title}')
+  h1 #{page.description}
+  .project-list-container
+    each post in page.posts
+      .project-list-item
+        a(href='#{config.url}#{page.url}#{post.url}')
+          img(src="#{post.cover}" alt='#{post.title}' title='#{post.title}')
