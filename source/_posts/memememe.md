@@ -6,25 +6,28 @@ description: installation and research
 url: memememe/
 date: 2014-06-06T18:18:59
 cover: /images/covers/memememe-300x90.jpg
+github: https://github.com/thiagohersan/memememe
+vimeo: https://vimeo.com/88619700
+pics: https://www.flickr.com/photos/tuukul/sets/72157646159118191
+www: http://www.memememememememe.me/
+collab: https://www.radames.in/
 ---
-[Ongoing project](http://www.memememememememe.me) with Radamés Ajna, where we are investigating what happens when the tools we use to communicate start to have more fun than we do, while communicating.
+Ongoing project with Radamés Ajna, where we are investigating what happens when the tools we use to communicate start to have more fun than we do, while communicating.
 
 ![](memememe2.jpg)
 
 ![](memememe5.jpg)
 
-This project was awarded a [VIDA 15.0 production incentive award](http://vida.fundaciontelefonica.com/en/projects/vida-15/), and a [Telefónica I+D](http://www.tid.es/) residency. We are currently researching different methods of interaction, recognition and communication between the phones, and a way to make them keep track of their affective relationships, without relying on digital data transmission.
+This project was awarded a [VIDA 15.0](https://vida.fundaciontelefonica.com/proyectos/vida-15/) production incentive award and residency. We are currently researching different methods of interaction, recognition and communication between the phones, and a way to make them keep track of their affective relationships, without relying on digital data transmission.
 
-<div class="videoWrapper">
-    <iframe></iframe>
+<div class="video-wrapper">
+    <iframe src="//player.vimeo.com/video/88619700?portrait=0&amp;color=ff9933" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
-The first step in the development of a physical communication protocol resulted in a set of sculptures inspired by Gordon Pask's Conversation Theory and Paul Pangaro's work on Interaction. [memememe#selfie](http://www.thiagohersan.com/project/memememeselfie-2014/) explores how we construct our identity and our environment through conversation, and the consequences of one-sided conversation, in the context of our contemporary preoccupation with trending, liking, following, etc.
+The first step in the development of a physical communication protocol resulted in a set of sculptures inspired by Gordon Pask's Conversation Theory and Paul Pangaro's work on Interaction. [memememe#selfie](/project/memememe-selfie/) explores how we construct our identity and our environment through conversation, and the consequences of one-sided conversation, in the context of our contemporary preoccupation with trending, liking, following, etc.
 
 ![](IMG_1465_x.jpg)
 
 ![](memememe1_sm.jpg)
 
 ![](memememe2_sm.jpg)
-
-More information is available on the [project's site](http://www.memememememememe.me/), and [on github](https://github.com/thiagohersan/memememe).

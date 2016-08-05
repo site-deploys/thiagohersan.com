@@ -6,15 +6,17 @@ description: installation
 url: video-boleba/
 date: 2012-11-10T01:14:56
 cover: /images/covers/video-boleba-300x90.jpg
+github: https://github.com/thiagohersan/videoBolebaArduino
+collab: https://www.youtube.com/user/CelinaPortella
 ---
-In October of 2012 I helped Brazilian performance and video artist [Celina Portella](http://www.youtube.com/user/CelinaPortella) with her latest video installation, Video Boleba.
+In October of 2012 I helped Brazilian performance and video artist Celina Portella with her latest video installation, Video Boleba.
 
 ![](bolebaBoyStill.jpg)
 
 Video Boleba is an electro-mechanical video installation that blurs the boundary between representation and reality. It consists of a 2-hour video of kids shooting marbles out of the corner of the screen, and a machine that shoots real marbles from behind the television.
 
-<div class="videoWrapper">
-    <iframe></iframe>
+<div class="video-wrapper">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/7qkE40LC90s" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 The marble-shooting mechanism was developed by **Steger Produção De Efeitos Especiais**, a special effects production company in São Paulo. I was responsible for synchronizing the video with the marble shooting machine.
@@ -33,4 +35,4 @@ Using a whole Arduino to basically do what a [monostable 555 timer](http://en.wi
 
 ![](bolebaCircuitStill.jpg)
 
-This was good because both the delay and the on-time for the trigger signal had to be adjusted in [the code](https://github.com/thiagohersan/videoBolebaArduino) during final testing and calibration.
+This was good because both the delay and the on-time for the trigger signal had to be adjusted in the code during final testing and calibration.

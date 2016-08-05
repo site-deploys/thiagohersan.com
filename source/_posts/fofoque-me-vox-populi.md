@@ -6,6 +6,10 @@ description: communication system installation
 url: fofoque-me-vox-populi/
 date: 2014-05-30T01:54:40
 cover: /images/covers/fofoque-me-vox-300x90.jpg
+github: https://github.com/thiagohersan/FofoquemeVoxPopuli
+vimeo: https://vimeo.com/98495273
+www: http://www.sescsp.org.br/multitude/
+collab: https://www.radames.in/
 ---
 It is not hard to imagine a future where public spaces have been completely relegated to the virtual realm. A future where any kind of physical congregation is seen as a “violent provocation”, and where the technologies that were once used to promote participatory action, remain as the only platform for public discourse.
 
@@ -39,8 +43,6 @@ Fofoque-me: Vox Populi was commissioned for the [Multitude](http://www.sescsp.or
 
 ![](xIMG_1664.jpg)
 
-<div class="videoWrapper">
-    <iframe></iframe>
+<div class="video-wrapper">
+    <iframe src="//player.vimeo.com/video/98495273?title=0&amp;byline=0&amp;portrait=0&amp;color=ff9933" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
-
-All the code for the project is on [github](https://github.com/thiagohersan/FofoquemeVoxPopuli), and some of the development and fabrication process is documented on [instructables](http://www.instructables.com/id/Fofoque-me-Vox-Populi-a-motorized-public-opinion-s/).
