@@ -1,0 +1,13 @@
+@import 'constants';
+
+$two_columns: (2 * $LIST-IMAGE-WIDTH) + (2 * ($LIST-IMAGE-SPACING + $LATERAL-PAGE-SPACE));
+$three_columns: (3 * $LIST-IMAGE-WIDTH) + (2 * ($LIST-IMAGE-SPACING + $LATERAL-PAGE-SPACE));
+
+@mixin media-query($canvas) {
+  @if $canvas == TWO {
+   @media only screen and (min-width: $two_columns) { @content; }
+  }
+  @else if $canvas == THREE {
+   @media only screen and (min-width: $three_columns) { @content; }
+  }
+}

@@ -1,22 +1,61 @@
-body{
-  font-family: "Helvetica";
-  text-align: center;
-  background: #f4f4f7;
-  color: #444;
-  margin: 0;
+@import '_helpers/colors';
+@import '_helpers/constants';
+@import '_helpers/fonts';
+@import '_helpers/mixins';
+@import '_helpers/query';
+
+@include get-font(MAIN);
+@include get-font(SOCIAL);
+
+
+#menu {
+  //@include get-font(MENU_MOBILE);
+  @include media-query(TWO) {
+    @include get-font(MENU_DESKTOP);
+    margin: $VERTICAL-SECTION-SPACING 0;
+  }
+
+  background: $menu;
+
+  .menu-container {
+    display: flex;
+  }
+
+  .menu-item {
+    padding: 0 $HORIZONTAL-ITEM-SPACING;
+  }
 }
 
-h1{
-  font-size: 65px;
-  line-height: 1.2em;
-  border-bottom: #CCC solid 1px;
-  margin: 0;
+body {
+  background: $background;
 }
 
-h2{
-  margin: 0px;
+#main-div {
+  max-width: 100%;
+  @include media-query(TWO) {
+    max-width: $three_columns;
+  }
+
+  @include lateral-spacing();
+
+  .home-video-wrapper {
+    float: right;
+  }
 }
 
-h3{
-  font-weight: 300;
+#social-footer {
+  display: flex;
+  justify-content: center;
+
+  margin-top: $VERTICAL-SECTION-SPACING;
+
+  .social-icon + .social-icon {
+    margin-left: $HORIZONTAL-ITEM-SPACING;
+  }
+
+  @include media-query(TWO) {
+    .social-icon + .social-icon {
+      margin-left: 2*$HORIZONTAL-ITEM-SPACING;
+    }
+  }
 }

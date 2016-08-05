@@ -1,0 +1,39 @@
+@import 'constants';
+
+@mixin clearfix() {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {
+    clear: both;
+  }
+}
+
+@mixin lateral-spacing ($value: auto) {
+  margin-left: $value;
+  margin-right: $value;
+}
+
+@mixin image-rounded($width, $height) {
+  figure {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 5px;
+    width: $width;
+    height: $height;
+  }
+}
+
+@mixin image-rounded-responsive($max-height) {
+  figure {
+    max-height: $max-height;
+    overflow: hidden;
+    border-radius: 5px;
+    img {
+      width: 100%;
+    }
+  }
+}

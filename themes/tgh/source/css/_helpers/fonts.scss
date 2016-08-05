@@ -1,0 +1,128 @@
+@import 'query';
+@import 'colors';
+
+$family-serif: 'Merriweather', 'Times New Roman';
+$family-sans: 'Merriweather Sans', Arial;
+
+$text-size: 1rem;
+$menu-size: 1.5rem;
+$detail-size: 1.1rem;
+
+$list-title-size: 1.3rem;
+$project-title-size: 1.1rem;
+
+@mixin __main {
+  html {
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    @include media-query(TWO){
+      font-size: 16px;
+    }
+  }
+
+  body {
+    font: 100% $family-serif;
+    color: $text-color;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.17rem; }
+  h4 { font-size: 1.12rem; }
+  h5 { font-size: .83rem; }
+  h6 { font-size: .75rem; }
+
+  p {
+    font: 1rem $family-serif;
+    word-spacing: 2px;
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  s {
+    text-decoration:line-through;
+  }
+
+  a {
+    font: bold $detail-size $family-sans;
+    text-decoration: none;
+    color: $link-color;
+    cursor: pointer;
+    text-transform: uppercase;
+
+    &:visited {
+      color: $link-color-visited;
+    }
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+}
+
+@mixin __menu_mobile(){
+  a {
+    font: bold $list-title-size $family-serif;
+    color: $link-color;
+  }
+}
+
+@mixin __menu_desktop(){
+  a {
+    font: bold $menu-size $family-serif;
+    color: $link-color;
+  }
+}
+
+@mixin __list(){
+  .title {
+    font: bold $list-title-size $family-sans;
+    text-transform: uppercase;
+    color: $title-color;
+  }
+}
+
+@mixin __project(){
+  .title {
+    font: bold $project-title-size $family-serif;
+    color: $title-color;
+  }
+}
+
+@mixin __social(){
+  .social-icon a {
+    font-size: 2.5em;
+    @include media-query(TWO){
+      font-size: 3em;
+    }
+  }
+}
+
+@mixin get-font($type){
+  @if( $type == MAIN ){
+    @include __main();
+  }
+  @else if( $type == PROJECT ){
+    @include __project();
+  }
+  @else if( $type == LIST ){
+    @include __list();
+  }
+  @else if( $type == SOCIAL ){
+    @include __social();
+  }
+  @else if( $type == MENU_MOBILE ){
+    @include __menu_mobile();
+  }
+  @else if( $type == MENU_DESKTOP ){
+    @include __menu_desktop();
+  }
+}
