@@ -9,8 +9,5 @@ vimeo: https://vimeo.com/thiagohersan
 astros: http://www.astrovandalistas.cc/
 ---
 <div class="contact-image">
-  <img src="/images/contact_email_bw.jpg">
-</div>
-<div class="contact-image">
-  <img src="/images/contact_phone_bw.jpg">
+  ![](/images/contact_email_wb.png)
 </div>

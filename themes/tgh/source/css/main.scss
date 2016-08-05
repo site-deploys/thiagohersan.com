@@ -41,6 +41,12 @@ body {
   .home-video-wrapper {
     float: right;
   }
+
+  .contact-image {
+    display: flex;
+    justify-content: center;
+    margin: $VERTICAL-SECTION-SPACING/4;
+  }
 }
 
 #social-footer {
