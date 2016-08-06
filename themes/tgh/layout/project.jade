@@ -1,8 +1,9 @@
 extends _partial/base.jade
 
 block content
-  // to avoid showing title on home page
-  if page.cover
-    h2 #{page.title}
-  content
-    != page.content
+  #project
+    // to avoid showing title on home page
+    if page.cover
+      .content-title #{page.title}
+    content
+      != page.content
