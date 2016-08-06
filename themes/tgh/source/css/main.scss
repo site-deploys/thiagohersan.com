@@ -67,6 +67,10 @@ body {
   @include media-query(THREE) {
     max-width: $three_columns;
   }
+
+  img {
+    border-radius: 5px;
+  }
 }
 
 #project {
@@ -79,6 +83,20 @@ body {
   }
   @include media-query(THREE) {
     max-width: $three_columns;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+  }
+
+  .video-wrapper {
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    margin: 1em 0;
   }
 }
 
