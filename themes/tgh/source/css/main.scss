@@ -39,12 +39,10 @@ body {
 }
 
 #main-div {
-  max-width: 100%;
-  @include media-query(TWO) {
-    max-width: $three_columns;
-  }
-
-  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  align-content: center;
+  justify-content: space-around;
 
   .home-video-wrapper {
     float: right;
@@ -54,6 +52,33 @@ body {
     display: flex;
     justify-content: center;
     margin: $VERTICAL-SECTION-SPACING/4 0;
+  }
+}
+
+#list .project-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  max-width: $one_column;
+  @include media-query(TWO) {
+    max-width: $two_columns;
+  }
+  @include media-query(THREE) {
+    max-width: $three_columns;
+  }
+}
+
+#project {
+  display: block;
+  margin: 0 auto;
+
+  max-width: $one_column;
+  @include media-query(TWO) {
+    max-width: $two_columns;
+  }
+  @include media-query(THREE) {
+    max-width: $three_columns;
   }
 }
 
