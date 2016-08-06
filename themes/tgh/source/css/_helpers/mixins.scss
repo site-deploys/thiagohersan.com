@@ -11,11 +11,6 @@
   }
 }
 
-@mixin lateral-spacing ($value: auto) {
-  margin-left: $value;
-  margin-right: $value;
-}
-
 @mixin image-rounded($width, $height) {
   figure {
     background-repeat: no-repeat;

@@ -4,30 +4,38 @@
 @import '_helpers/mixins';
 @import '_helpers/query';
 
-@include get-font(MAIN);
-@include get-font(SOCIAL);
+@include fonts;
 
+body {
+  background: $background;
+}
 
 #menu {
-  //@include get-font(MENU_MOBILE);
+  margin: 0 0 $VERTICAL-SECTION-SPACING;
   @include media-query(TWO) {
-    @include get-font(MENU_DESKTOP);
     margin: $VERTICAL-SECTION-SPACING 0;
   }
 
   background: $menu;
 
   .menu-container {
+    width: 100%;
     display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    @include media-query(TWO) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    @include media-query(BIG_MENU) {
+      justify-content: space-around;
+    }
   }
 
   .menu-item {
-    padding: 0 $HORIZONTAL-ITEM-SPACING;
+    padding: 0 1rem;
   }
-}
-
-body {
-  background: $background;
 }
 
 #main-div {
@@ -36,7 +44,7 @@ body {
     max-width: $three_columns;
   }
 
-  @include lateral-spacing();
+  margin: 0 auto;
 
   .home-video-wrapper {
     float: right;
@@ -45,23 +53,16 @@ body {
   .contact-image {
     display: flex;
     justify-content: center;
-    margin: $VERTICAL-SECTION-SPACING/4;
+    margin: $VERTICAL-SECTION-SPACING/4 0;
   }
 }
 
 #social-footer {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 
-  margin-top: $VERTICAL-SECTION-SPACING;
-
-  .social-icon + .social-icon {
-    margin-left: $HORIZONTAL-ITEM-SPACING;
-  }
-
+  margin: $VERTICAL-SECTION-SPACING $HORIZONTAL-ITEM-SPACING 0;
   @include media-query(TWO) {
-    .social-icon + .social-icon {
-      margin-left: 2*$HORIZONTAL-ITEM-SPACING;
-    }
+    margin: $VERTICAL-SECTION-SPACING 2*$HORIZONTAL-ITEM-SPACING 0;
   }
 }

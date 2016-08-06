@@ -1,11 +1,15 @@
 @import 'constants';
 
-$two_columns: (2 * $LIST-IMAGE-WIDTH) + (2 * ($LIST-IMAGE-SPACING + $LATERAL-PAGE-SPACE));
-$three_columns: (3 * $LIST-IMAGE-WIDTH) + (2 * ($LIST-IMAGE-SPACING + $LATERAL-PAGE-SPACE));
+$two_columns: (2 * $LIST-IMAGE-WIDTH) + $LIST-IMAGE-SPACING;
+$big_menu: (1280px / 7) * 4;
+$three_columns: (3 * $LIST-IMAGE-WIDTH) + (2 * $LIST-IMAGE-SPACING);
 
 @mixin media-query($canvas) {
   @if $canvas == TWO {
    @media only screen and (min-width: $two_columns) { @content; }
+  }
+  @else if $canvas == BIG_MENU {
+   @media only screen and (min-width: $big_menu) { @content; }
   }
   @else if $canvas == THREE {
    @media only screen and (min-width: $three_columns) { @content; }

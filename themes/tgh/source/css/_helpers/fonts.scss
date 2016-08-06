@@ -6,14 +6,13 @@ $family-sans: 'Merriweather Sans', Arial;
 
 $text-size: 1rem;
 $menu-size: 1.5rem;
+$menu-size-small: 1.3rem;
+$project-title-size: 1.5rem;
 $detail-size: 1.1rem;
 
-$list-title-size: 1.3rem;
-$project-title-size: 1.1rem;
-
-@mixin __main {
+@mixin fonts {
   html {
-    font-size: 14px;
+    font-size: 15px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
@@ -23,7 +22,7 @@ $project-title-size: 1.1rem;
   }
 
   body {
-    font: 100% $family-serif;
+    font: $family-serif;
     color: $text-color;
   }
 
@@ -35,7 +34,7 @@ $project-title-size: 1.1rem;
   h6 { font-size: .75rem; }
 
   p {
-    font: 1rem $family-serif;
+    font: $family-serif;
     word-spacing: 2px;
   }
 
@@ -66,63 +65,27 @@ $project-title-size: 1.1rem;
       color: $link-color-hover;
     }
   }
-}
 
-@mixin __menu_mobile(){
-  a {
-    font: bold $list-title-size $family-serif;
-    color: $link-color;
+  #menu a {
+    font-size: $menu-size-small; // $family-serif; ??
+    @include media-query(BIG_MENU){
+      font-size: $menu-size; // $family-serif; ??
+    }
   }
-}
 
-@mixin __menu_desktop(){
-  a {
-    font: bold $menu-size $family-serif;
-    color: $link-color;
+  .content-title {
+    font: bold $project-title-size $family-sans;
+    color: $title-color;
   }
-}
 
-@mixin __list(){
-  .title {
-    font: bold $list-title-size $family-sans;
+  #list .content-title {
     text-transform: uppercase;
-    color: $title-color;
   }
-}
 
-@mixin __project(){
-  .title {
-    font: bold $project-title-size $family-serif;
-    color: $title-color;
-  }
-}
-
-@mixin __social(){
   .social-icon a {
     font-size: 2.5em;
     @include media-query(TWO){
       font-size: 3em;
     }
-  }
-}
-
-@mixin get-font($type){
-  @if( $type == MAIN ){
-    @include __main();
-  }
-  @else if( $type == PROJECT ){
-    @include __project();
-  }
-  @else if( $type == LIST ){
-    @include __list();
-  }
-  @else if( $type == SOCIAL ){
-    @include __social();
-  }
-  @else if( $type == MENU_MOBILE ){
-    @include __menu_mobile();
-  }
-  @else if( $type == MENU_DESKTOP ){
-    @include __menu_desktop();
   }
 }
