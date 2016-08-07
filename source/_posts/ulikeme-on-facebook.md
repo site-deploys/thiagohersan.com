@@ -3,7 +3,7 @@ layout: project
 category: project
 title: uLikeMe (on facebook)
 description: online app
-url: ulikeme-on-facebook/
+url: /project/ulikeme-on-facebook/
 date: 2014-01-20T04:47:31
 cover: /images/covers/ulikeme-on-300x90.jpg
 github: https://github.com/thiagohersan/uLikeMe

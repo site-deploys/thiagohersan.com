@@ -3,7 +3,7 @@ layout: project
 category: project
 title: iGotPoked
 description: performance/collage
-url: igotpoked/
+url: /project/igotpoked/
 date: 2011-01-15T02:15:14
 cover: /images/covers/igotpoked-300x90.jpg
 ---

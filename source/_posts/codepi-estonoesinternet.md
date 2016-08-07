@@ -3,7 +3,7 @@ layout: project
 category: project
 title: 'CoDEPI: #EstoNoEsInternet'
 description: intangible installation
-url: codepi-estonoesinternet/
+url: /project/codepi-estonoesinternet/
 date: 2014-11-15T21:47:15
 cover: /images/covers/codepi-300x90.jpg
 github: https://github.com/astrovandalistas/accionesterritoriales

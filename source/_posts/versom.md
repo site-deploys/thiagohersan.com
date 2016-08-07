@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: VerSom
 description: performance software
-url: versom/
+url: /project/versom/
 date: 2012-08-17T21:56:16
 cover: /images/covers/versom-300x90.jpg
 ---

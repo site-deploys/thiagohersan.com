@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: Front and Center
 description: public installation, happening and event
-url: front-and-center/
+url: /project/front-and-center/
 date: 2013-10-19T17:32:52
 cover: /images/covers/front-and-center-300x90.jpg
 ---

@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: SP_Urban Digital Festival 1.0
 description: public intervention
-url: sp-urban-digital-festival-1-0/
+url: /project/sp-urban-digital-festival-1-0/
 date: 2014-07-23T04:51:39
 cover: /images/covers/sp-urban-digital-300x90.jpg
 ---

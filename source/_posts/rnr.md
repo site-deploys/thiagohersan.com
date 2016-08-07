@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: RnR
 description: custom software and prints
-url: rnr/
+url: /project/rnr/
 date: 2015-06-15T20:32:00
 cover: /images/covers/rnr-300x90.jpg
 ---

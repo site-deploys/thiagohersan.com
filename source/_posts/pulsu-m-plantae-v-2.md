@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Pulsu(m) Plantae v.2
 description: installation
-url: pulsu-m-plantae-v-2/
+url: /project/pulsu-m-plantae-v-2/
 date: 2013-04-23T15:52:54
 cover: /images/covers/pulsu-m-plantae-300x90.jpg
 github: https://github.com/Lessnullvoid/Pulsum-Plantae/

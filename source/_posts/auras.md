@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Auras
 description: cosmic apparatus and photography
-url: auras/
+url: /project/auras/
 date: 2012-09-01T22:11:57
 cover: /images/covers/auras-300x90.jpg
 github: https://github.com/thiagohersan/auras04Arduino

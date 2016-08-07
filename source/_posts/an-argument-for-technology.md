@@ -3,7 +3,7 @@ layout: project
 category: project
 title: An Argument For Technology
 description: installation
-url: an-argument-for-technology/
+url: /project/an-argument-for-technology/
 date: 2014-01-28T15:56:54
 cover: /images/covers/an-argument-for-300x90.jpg
 github: https://github.com/astrovandalistas/AFT

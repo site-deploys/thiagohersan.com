@@ -3,7 +3,7 @@ layout: project
 category: project
 title: memememe
 description: installation and research
-url: memememe/
+url: /project/memememe/
 date: 2014-06-06T18:18:59
 cover: /images/covers/memememe-300x90.jpg
 github: https://github.com/thiagohersan/memememe

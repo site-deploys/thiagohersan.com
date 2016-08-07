@@ -3,7 +3,7 @@ layout: project
 category: project
 title: 'Fofoque-me: Vox Populi'
 description: communication system installation
-url: fofoque-me-vox-populi/
+url: /project/fofoque-me-vox-populi/
 date: 2014-05-30T01:54:40
 cover: /images/covers/fofoque-me-vox-300x90.jpg
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli

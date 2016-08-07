@@ -3,7 +3,7 @@ layout: project
 category: project
 title: 'memememe#selfie'
 description: installation
-url: memememe-selfie/
+url: /project/memememe-selfie/
 date: 2014-12-12T10:27:09
 cover: /images/covers/memememe-selfie-300x90.jpg
 github: https://github.com/thiagohersan/memememe

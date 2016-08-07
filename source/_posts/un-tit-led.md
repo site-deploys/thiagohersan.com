@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: UN_TIT_LED
 description: interactive installation
-url: un-tit-led/
+url: /project/un-tit-led/
 date: 2011-05-30T23:45:38
 cover: /images/covers/un-tit-led-300x90.jpg
 github: https://github.com/thiagohersan/un_tit_ledArduino

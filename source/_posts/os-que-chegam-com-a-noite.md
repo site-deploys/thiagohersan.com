@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Os Que Chegam Com a Noite
 description: public intervention
-url: os-que-chegam-com-a-noite/
+url: /project/os-que-chegam-com-a-noite/
 date: 2012-09-17T01:00:29
 cover: /images/covers/os-que-chegam-a-300x90.jpg
 github: https://github.com/thiagohersan/osQueChegamComANoite

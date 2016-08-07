@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Facebukkake
 description: online performance
-url: facebukkake/
+url: /project/facebukkake/
 date: 2010-10-10T23:13:43
 cover: /images/covers/facebukkake-300x90.jpg
 ---

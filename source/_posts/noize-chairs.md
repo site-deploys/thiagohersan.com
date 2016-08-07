@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Nóize Chairs
 description: design object
-url: noize-chairs/
+url: /project/noize-chairs/
 date: 2012-06-30T03:10:53
 cover: /images/covers/noize-chairs-300x90.jpg
 github: https://github.com/thiagohersan/NoizeChairsProcessing/

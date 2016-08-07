@@ -3,7 +3,7 @@ layout: project
 category: project
 title: '#bangMTY'
 description: interactive public installation and intervention
-url: bangmty/
+url: /project/bangmty/
 date: 2013-03-17T01:38:03
 cover: /images/covers/bangmty-300x90.jpg
 github: https://github.com/astrovandalistas/bangMTYRpiPy

@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: Evo-Repro
 description: interactive installation
-url: evo-repro/
+url: /project/evo-repro/
 date: 2012-06-24T00:43:01
 cover: /images/covers/evo-repro-300x90.jpg
 ---

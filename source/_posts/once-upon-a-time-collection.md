@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Once Upon a Time Collection
 description: design objects
-url: once-upon-a-time-collection/
+url: /project/once-upon-a-time-collection/
 date: 2012-04-12T02:55:28
 cover: /images/covers/once-upon-a-time-300x90.jpg
 github: https://github.com/thiagohersan/EraUmaVezProcessing/

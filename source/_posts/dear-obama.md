@@ -3,7 +3,7 @@ layout: project
 category: project
 title: 'Dear Obama, ...'
 description: performance/protest
-url: dear-obama/
+url: /project/dear-obama/
 date: 2009-01-22T15:24:04
 cover: /images/covers/dear-obama-300x90.jpg
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw

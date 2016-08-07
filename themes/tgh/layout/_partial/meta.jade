@@ -7,10 +7,10 @@ meta(name="twitter:creator" content="#{config.social.twitter_user}")
 
 meta(property="og:title" content="#{page.title}")
 meta(property="og:type" content="article")
-meta(property="og:url" content=page.url)
+meta(property="og:url" content="#{config.url}#{page.url}")
 meta(property="og:description" content="#{page.title}: #{page.description}")
 meta(property="og:site_name" content="#{config.title}")
-meta(property="article:publisher" content="https://".concat("#{config.social.facebook_url}"))
+meta(property="article:publisher" content="https://#{config.social.facebook_url}")
 
 if page.cover
   meta(name="twitter:image" content="#{config.url}#{page.cover}")

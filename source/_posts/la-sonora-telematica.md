@@ -3,7 +3,7 @@ layout: project
 category: project
 title: La Sonora Telemática
 description: collaborative installation
-url: la-sonora-telematica/
+url: /project/la-sonora-telematica/
 date: 2014-05-27T15:05:15
 cover: /images/covers/la-sonora-300x90.jpg
 github: https://github.com/astrovandalistas/LaSonoraMontreal

@@ -3,7 +3,7 @@ layout: project
 category: project
 title: El Abismo
 description: collaborative performance, collective documentation
-url: el-abismo/
+url: /project/el-abismo/
 date: 2013-01-27T03:16:07
 cover: /images/covers/el-abismo-300x90.jpg
 github: https://github.com/astrovandalistas/AbismoTwitterOF

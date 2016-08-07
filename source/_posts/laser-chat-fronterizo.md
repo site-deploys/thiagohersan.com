@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: Laser Chat Fronterizo
 description: installation and workshop
-url: laser-chat-fronterizo/
+url: /project/laser-chat-fronterizo/
 date: 2015-11-03T19:24:52
 cover: /images/covers/laser-chat-300x90.jpg
 ---

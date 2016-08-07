@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: Video Boleba
 description: installation
-url: video-boleba/
+url: /project/video-boleba/
 date: 2012-11-10T01:14:56
 cover: /images/covers/video-boleba-300x90.jpg
 github: https://github.com/thiagohersan/videoBolebaArduino

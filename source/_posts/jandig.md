@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Jandig
 description: collaborative vistual installation/exhibition and mobile app
-url: jandig/
+url: /project/jandig/
 date: 2011-12-03T00:21:19
 cover: /images/covers/jandig-300x90.jpg
 github: https://github.com/memeLab/Jandig/

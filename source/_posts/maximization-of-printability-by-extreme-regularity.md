@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Maximization of Printability by Extreme Regularity
 description: MS thesis in electrical engineering
-url: maximization-of-printability-by-extreme-regularity/
+url: /project/maximization-of-printability-by-extreme-regularity/
 date: 2006-12-14T21:29:24
 cover: /images/covers/maximization-of-300x90.jpg
 ---

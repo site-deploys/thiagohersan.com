@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Fofoque-me
 description: public installation and communication system
-url: fofoque-me/
+url: /project/fofoque-me/
 date: 2012-06-01T13:18:56
 cover: /images/covers/fofoque-me-300x90.jpg
 github: https://github.com/thiagohersan/Fofoqueme

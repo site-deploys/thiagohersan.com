@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Bablrr
 description: mobile app
-url: bablrr/
+url: /project/bablrr/
 date: 2012-07-16T00:38:14
 cover: /images/covers/bablrr-300x90.jpg
 github: https://github.com/thiagohersan/BablrAndroid

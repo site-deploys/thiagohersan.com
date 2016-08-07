@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: E-ansã
 description: reactive dress
-url: e-ansa/
+url: /project/e-ansa/
 date: 2010-11-15T21:30:31
 cover: /images/covers/e-ansa-300x90.jpg
 github: https://github.com/thiagohersan/eAnsaArduino/

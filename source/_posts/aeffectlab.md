@@ -3,7 +3,7 @@ layout: project
 category: project
 title: ÆffectLab
 description: affective communication framework
-url: aeffectlab/
+url: /project/aeffectlab/
 date: 2013-07-24T16:06:04
 cover: /images/covers/aeffectlab-300x90.jpg
 github: https://github.com/astrovandalistas/AEffect-Lab
