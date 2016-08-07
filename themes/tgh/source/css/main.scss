@@ -8,6 +8,7 @@
 
 body {
   background: $background;
+  margin: 8px 0;
 }
 
 #menu {
@@ -21,7 +22,6 @@ body {
   .menu-container {
     width: 100%;
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
 
     @include media-query(TWO) {
@@ -34,7 +34,9 @@ body {
   }
 
   .menu-item {
+    display: flex;
     padding: 0 1rem;
+    justify-content: center;
   }
 }
 
