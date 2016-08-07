@@ -3,10 +3,10 @@ $menu: darken($background, 10%);
 $menu-over: darken($background, 20%);
 
 $text-base: rgba(0,0,0,1);
-$text-color: lighten($text-base, 33%);
 $title-color: lighten($text-base, 10%);
+$text-color: lighten($text-base, 33%);
 
-$accent-base: rgba(0,0,0,1);
-$link-color: $accent-base;
-$link-color-visited: $accent-base;
+$accent-base: rgba(0,0,130,1);
+$link-color: $title-color;
+$link-color-visited: $link-color;
 $link-color-hover: lighten($accent-base, 50%);
