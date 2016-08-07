@@ -56,6 +56,7 @@ $detail-size: 1.1rem;
     color: $link-color;
     cursor: pointer;
     text-transform: uppercase;
+    transition: color $TRANSITION-PERIOD linear;
 
     &:visited {
       color: $link-color-visited;
@@ -71,6 +72,8 @@ $detail-size: 1.1rem;
     @include media-query(BIG_MENU){
       font-size: $menu-size; // $family-serif; ??
     }
+
+    transition: background $TRANSITION-PERIOD linear;
 
     &:hover {
       background: $menu-over;
