@@ -2,7 +2,7 @@
 
 $one_column: $LIST-IMAGE-WIDTH;
 $two_columns: (2 * $LIST-IMAGE-WIDTH) + (1 * $LIST-IMAGE-SPACING);
-$big_menu: (1280px / 7) * 4;
+$big_menu: ($DESKTOP-WIDTH-SITE / 7) * 4;
 $three_columns: (3 * $LIST-IMAGE-WIDTH) + (2 * $LIST-IMAGE-SPACING);
 
 @mixin media-query($canvas) {

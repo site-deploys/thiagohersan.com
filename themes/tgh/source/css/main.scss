@@ -1,7 +1,6 @@
 @import '_helpers/colors';
 @import '_helpers/constants';
 @import '_helpers/fonts';
-@import '_helpers/mixins';
 @import '_helpers/query';
 
 @include fonts;
@@ -118,10 +117,17 @@ body {
 
 #social-footer {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 
-  margin: $VERTICAL-SECTION-SPACING $HORIZONTAL-ITEM-SPACING 0;
+  margin: $VERTICAL-SECTION-SPACING 0;
   @include media-query(TWO) {
-    margin: $VERTICAL-SECTION-SPACING 2*$HORIZONTAL-ITEM-SPACING 0;
+    margin: $VERTICAL-SECTION-SPACING 0;
+  }
+
+  .social-icon {
+    padding: 0 $HORIZONTAL-ITEM-SPACING/2;
+    @include media-query(TWO) {
+      padding: 0 $HORIZONTAL-ITEM-SPACING;
+    }
   }
 }
