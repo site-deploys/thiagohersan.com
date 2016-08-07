@@ -2,9 +2,9 @@
 @import 'colors';
 
 $family-serif: 'Merriweather', 'Times New Roman';
-$family-sans: 'Merriweather Sans', Arial;
+$family-sans: 'Merriweather Sans', 'Arial';
 
-$text-size: 1rem;
+$text-size: 1.2rem;
 $menu-size: 1.5rem;
 $menu-size-small: 1.3rem;
 $project-title-size: 1.5rem;
@@ -22,7 +22,7 @@ $detail-size: 1.1rem;
   }
 
   body {
-    font: $family-serif;
+    font: normal $text-size $family-serif;
     color: $text-color;
   }
 
@@ -34,8 +34,8 @@ $detail-size: 1.1rem;
   h6 { font-size: .75rem; }
 
   p {
-    font: $family-serif;
-    word-spacing: 2px;
+    font: normal $text-size $family-serif;
+    word-spacing: 4px;
   }
 
   strong {
@@ -70,6 +70,11 @@ $detail-size: 1.1rem;
     font-size: $menu-size-small; // $family-serif; ??
     @include media-query(BIG_MENU){
       font-size: $menu-size; // $family-serif; ??
+    }
+
+    &:hover {
+      background: $menu-over;
+      color: $link-color;
     }
   }
 

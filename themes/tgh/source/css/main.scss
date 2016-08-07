@@ -20,7 +20,6 @@ body {
   background: $menu;
 
   .menu-container {
-    width: 100%;
     display: flex;
     flex-direction: column;
 
@@ -33,10 +32,23 @@ body {
     }
   }
 
+  .menu-container a {
+    width: 100%;
+    flex-shrink: 1;
+  }
+
+  #menu-home {
+    flex-shrink: 0.88;
+  }
+
   .menu-item {
     display: flex;
-    padding: 0 1rem;
     justify-content: center;
+
+    margin: 1px auto;
+    @include media-query(TWO) {
+      margin: 10px auto;
+    }
   }
 }
 
@@ -48,6 +60,8 @@ body {
 
   .home-video-wrapper {
     float: right;
+    max-width: 100%;
+    margin-left: $HORIZONTAL-ITEM-SPACING;
   }
 
   .contact-image {
@@ -98,7 +112,7 @@ body {
     display: flex;
     justify-content: center;
     max-width: 100%;
-    margin: 1em 0;
+    margin: 1rem 0;
   }
 }
 
