@@ -27,6 +27,9 @@ I was mostly responsible for writing the Java code for the Android application. 
 
 I was also responsible for figuring out how to display animated GIFs using OpenGL textures:
 
-<div class="video-wrapper">
-    <iframe width="500" height="375" src="http://www.youtube.com/embed/z-lzqEBYgEU" frameborder="0" allowfullscreen></iframe>
+
+<div class="video-wrapper-small">
+  <div class="video-wrapper video-wrapper-4x3">
+    <iframe src="http://www.youtube.com/embed/z-lzqEBYgEU" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>

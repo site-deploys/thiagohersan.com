@@ -25,8 +25,10 @@ Our first idea was to just use a neon sign transformer, but those are a little t
 
 This worked pretty well, and we made some fun sparks with it, but since the signal is more or less coming straight from the wall, its current is still pretty high, and it does not feel nice to touch the high-voltage wires. It would be pretty hard (and painful) to use this to take electro-pictures of living things.
 
-<div class="video-wrapper">
-    <iframe width="560" height="315" src="http://www.youtube.com/embed/BvtqCPFPWos" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper-small">
+  <div class="video-wrapper video-wrapper-16x9">
+    <iframe src="http://www.youtube.com/embed/BvtqCPFPWos" frameborder="0" allowfullscreen></iframe>
+  </div>
 </div>
 
 What is missing from the previous circuit is some current-limiting components (resistor and a fuse), and a way to flicker the transformer on and off at higher frequencies. Both of these things should contribute to a less painful and dangerous aura-imaging experience.

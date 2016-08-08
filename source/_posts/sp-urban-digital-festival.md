@@ -49,8 +49,8 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 
 ![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_14.jpg)
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/101879119" width="800" height="600" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/101879119" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 **Radamés Ajna**

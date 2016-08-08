@@ -22,8 +22,8 @@ It creates the possibility of an on-demand online presence by posting a screensh
 
 If this information is already available to the government, why not make it available to people I actually know?
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/112552633" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/112552633" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 This project is part of an ongoing [series](/project/ilikeme-on-facebook/ ) of web [applications](/project/ilikeyou-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

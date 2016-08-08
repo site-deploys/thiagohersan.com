@@ -18,6 +18,6 @@ A future where we've successfully been able to optimize ourselves out, and techn
 
 In this particular instance, a megaphone and a computer monitor discuss the aftermath of their relationship and existence using fatalistic texts scraped from search engines and social networking sites.
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/85982338?title=0&amp;byline=0&amp;portrait=0" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/85982338?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>

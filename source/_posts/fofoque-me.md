@@ -29,20 +29,20 @@ Once we become solely concerned with sending (and "trending", "like-ing", etc), 
 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 
-<div class="video-wrapper">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43057300" webkitallowfullscreen="" width="800" height="449"></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43057300" webkitallowfullscreen=""></iframe>
 </div>
 
 These messages are first passed through a series of cell phones before being broadcast through a megaphone and speech synthesis system. In addition to giving physicality to the message, these cell phones can also interfere with the message in their own way, adding a little bit of their personalities and anxieties.
 
 Since these broadcasts only exist for a short amount of time in a specific physical location, we hope they can promote a unique kind of "social grooming" that motivates physical interactions amongst participants.
 
-<div class="video-wrapper">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43858648" webkitallowfullscreen="" width="800" height="449"></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43858648" webkitallowfullscreen=""></iframe>
 </div>
 
 The system uses custom software written for the Android platform to trigger the voice synthesis and an Arduino microcontroller that controls the physical interactions of the cell phones.
 
-<div class="video-wrapper">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43282923" webkitallowfullscreen="" width="800" height="449"></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/43282923" webkitallowfullscreen=""></iframe>
 </div>

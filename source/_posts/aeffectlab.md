@@ -14,8 +14,8 @@ Even though the internet has given us access to an infinite amount of informatio
 
 Having faster ways to communicate, using more bytes, and different media, doesn’t necessarily translate to better communication or greater agency if those means are heavily biased by the commercial enterprises who design them.
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/77366588" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/77366588" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 Æffect Lab is a project developed by the Astrovandalistas collective. It is a local communication network in which human-human communication can develop and take place. It is a framework for promoting the creation of affective models of communication that are specific to a location, event or group of people.

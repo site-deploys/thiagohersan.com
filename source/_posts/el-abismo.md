@@ -15,8 +15,8 @@ astros: http://astrovandalistas.cc/abismo/
 
 *El Abismo* is part live performance, part construction of a collective memory of the events that took place during [The Mexican Spring of 2012](http://en.wikipedia.org/wiki/Yo_Soy_132), built by those who participated in the manifestations.
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/77638955?title=0&amp;byline=0&amp;portrait=0&amp;color=a9aeb0" width="800" height="450" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/77638955?title=0&amp;byline=0&amp;portrait=0&amp;color=a9aeb0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 People were invited to participate in the construction of this collective archive by submitting their images, videos, audio tracks and texts through an online platform, or, much like the original [*Yo Soy 132*](http://en.wikipedia.org/wiki/Yo_Soy_132) movement, by submitting texts via twitter using a specific hashtag.

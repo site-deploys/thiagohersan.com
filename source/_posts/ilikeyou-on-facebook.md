@@ -18,8 +18,8 @@ iLikeYou (on facebook) is a web app designed to help us quantify our feelings to
 
 Much like real love, the amount of data you can actually ![](/images/projects/ilikeyou-on-facebook/like.png) using this app is determined by the other person's privacy settings and how much they trust you.
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 This project is part of an ongoing [series](/project/ilikeme-on-facebook/ ) of web [applications](/project/ulikeme-on-facebook/) meant to explore different aspects of our technology-mediated interactions.

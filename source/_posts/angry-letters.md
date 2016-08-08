@@ -33,6 +33,6 @@ A simple ritual for sharing angry messages with the world:
 
 ![](/images/projects/angry-letters/xIMG_0515.jpg)
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/98120021?byline=0&title=0&portrait=0" width="800" height="449" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/98120021?byline=0&title=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

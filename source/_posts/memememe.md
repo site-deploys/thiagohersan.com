@@ -20,8 +20,8 @@ Ongoing project with Radamés Ajna, where we are investigating what happens when
 
 This project was awarded a [VIDA 15.0](https://vida.fundaciontelefonica.com/proyectos/vida-15/) production incentive award and residency. We are currently researching different methods of interaction, recognition and communication between the phones, and a way to make them keep track of their affective relationships, without relying on digital data transmission.
 
-<div class="video-wrapper">
-    <iframe src="//player.vimeo.com/video/88619700?portrait=0&amp;color=ff9933" width="800" height="449" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="video-wrapper video-wrapper-16x9">
+    <iframe src="//player.vimeo.com/video/88619700?portrait=0&amp;color=ff9933" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
 
 The first step in the development of a physical communication protocol resulted in a set of sculptures inspired by Gordon Pask's Conversation Theory and Paul Pangaro's work on Interaction. [memememe#selfie](/project/memememe-selfie/) explores how we construct our identity and our environment through conversation, and the consequences of one-sided conversation, in the context of our contemporary preoccupation with trending, liking, following, etc.
