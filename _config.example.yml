@@ -12,8 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-#url: http://thiagohersan.com
-url: http://localhost:4444
+url: http://ROOT_OF_SITE
 root: /
 permalink: project/:title/
 permalink_defaults:

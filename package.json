@@ -15,6 +15,7 @@
     "hexo-server": "^0.2.0"
   },
   "scripts": {
-    "start": "hexo clean; ./python/genLists.py; hexo server -p 4444"
+    "start": "hexo clean; sed 's/ROOT_OF_SITE/localhost:4444/g' _config.example.yml > _config.yml; ./python/genLists.py; hexo server -p 4444",
+    "generate": "hexo clean; sed 's/ROOT_OF_SITE/thiagohersan.com/g' _config.example.yml > _config.yml; ./python/genLists.py; hexo generate"
   }
 }
