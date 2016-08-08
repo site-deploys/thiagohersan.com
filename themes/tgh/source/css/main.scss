@@ -19,29 +19,38 @@ body {
   background: $menu;
 
   .menu-container {
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-direction: column;
     flex-direction: column;
 
     @include media-query(TWO) {
+      -webkit-flex-direction: row;
       flex-direction: row;
+      -webkit-justify-content: space-between;
       justify-content: space-between;
     }
     @include media-query(BIG_MENU) {
+      -webkit-justify-content: space-around;
       justify-content: space-around;
     }
   }
 
   .menu-container a {
     width: 100%;
+    -webkit-flex-shrink: 1;
     flex-shrink: 1;
   }
 
   #menu-home {
+    -webkit-flex-shrink: 0.88;
     flex-shrink: 0.88;
   }
 
   .menu-item {
+    display: -webkit-flex;
     display: flex;
+    -webkit-justify-content: center;
     justify-content: center;
 
     margin: 1px auto;
@@ -53,9 +62,12 @@ body {
 
 #main-div {
   width: 100%;
+  display: -webkit-flex;
   display: flex;
-  align-content: center;
+  -webkit-justify-content: space-around;
   justify-content: space-around;
+  -webkit-align-content: center;
+  align-content: center;
 
   .home-video-wrapper {
     float: right;
@@ -64,15 +76,20 @@ body {
   }
 
   .contact-image {
+    display: -webkit-flex;
     display: flex;
+    -webkit-justify-content: center;
     justify-content: center;
     margin: $VERTICAL-SECTION-SPACING/4 0;
   }
 }
 
 #list .project-list-container {
+  display: -webkit-flex;
   display: flex;
+  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
+  -webkit-justify-content: space-between;
   justify-content: space-between;
 
   max-width: $one_column;
@@ -119,7 +136,9 @@ body {
   }
 
   .video-wrapper {
+    display: -webkit-flex;
     display: flex;
+    -webkit-justify-content: center;
     justify-content: center;
     max-width: 100%;
     margin: 1rem 0;
@@ -127,7 +146,9 @@ body {
 }
 
 #social-footer {
+  display: -webkit-flex;
   display: flex;
+  -webkit-justify-content: center;
   justify-content: center;
 
   margin: $VERTICAL-SECTION-SPACING 0;
