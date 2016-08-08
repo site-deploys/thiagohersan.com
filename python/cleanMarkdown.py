@@ -12,7 +12,7 @@ posts = []
 if __name__ == "__main__":
     SOURCE_DIR = "source"
     IMAGES_DIR = join(SOURCE_DIR, "images")
-    PROJECT_IMAGES_DIR = join(IMAGE_DIR, "projects")
+    PROJECT_IMAGES_DIR = join(IMAGES_DIR, "projects")
     PROJ_DIR = join(SOURCE_DIR, "_projects")
     OUT_DIR = join(SOURCE_DIR, "_posts")
 
@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
                     if("img" in line):
                         # replaces <img> with ![]()
-                        line = sub(r"< *img *?src *?= *?\"(([^ ]*?/)+(.+?))\".*?>", r"![](\3)", line)
+                        line = sub(r"< *img.*?src *?= *?\"(([^ ]*?/)+(.+?))\".*?>", r"![](\3)", line)
                         # cleans up "sized" image file references
                         line = sub(r"-[0-9]+x[0-9]+\.(\w{3})", r".\1", line)
                         # cleans up <a>
@@ -76,7 +76,9 @@ if __name__ == "__main__":
             out.write("date: %s\n"%sub(r"\+[0-9:]+","",p['date']))
             out.write("cover: /images/covers/%s-300x90.jpg\n"%coverFileName)
             out.write("---\n")
-            out.write(p['content'])
+            # add image paths
+            thisContent = sub(r"\!\[\]\((.*?)\)", r"![](/images/projects/%s/\1)"%outputFileName, p['content'])
+            out.write("%s"%thisContent)
             out.close()
         if not exists(join(PROJECT_IMAGES_DIR, outputFileName)):
             makedirs(join(PROJECT_IMAGES_DIR, outputFileName))
