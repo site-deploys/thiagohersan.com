@@ -8,6 +8,4 @@ github: https://github.com/thiagohersan
 vimeo: https://vimeo.com/thiagohersan
 astros: http://www.astrovandalistas.cc/
 ---
-<div class="contact-image">
-  ![](/images/contact_email_wb.png)
-</div>
+![](/images/contact/contact_email_wb.png)

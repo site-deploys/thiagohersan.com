@@ -3,7 +3,7 @@ layout: project
 category: project
 title: 'memememe#selfie'
 description: installation
-url: /project/memememe-selfie/
+url: memememe-selfie/
 date: 2014-12-12T10:27:09
 cover: /images/covers/memememe-selfie-300x90.jpg
 github: https://github.com/thiagohersan/memememe
@@ -30,6 +30,6 @@ It is also the first steps in the development of a physical communication protoc
 
 Residues of their one-sided [conversation](http://memememeselfie.tumblr.com/) can be seen on their tumblr [feeds](http://memememe2memememe.tumblr.com/).
 
-![](selfies_s.jpg)
+![](/images/projects/memememe-selfie/selfies_s.jpg)
 
-![](selfies2_s.jpg)
+![](/images/projects/memememe-selfie/selfies2_s.jpg)

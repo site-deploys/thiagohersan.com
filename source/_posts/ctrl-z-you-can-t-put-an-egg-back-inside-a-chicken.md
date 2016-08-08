@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: Ctrl-z (you can't put an egg back inside a chicken)
 description: performance/product
-url: /project/ctrl-z-you-can-t-put-an-egg-back-inside-a-chicken/
+url: ctrl-z-you-can-t-put-an-egg-back-inside-a-chicken/
 date: 2014-06-08T01:56:07
 cover: /images/covers/ctrl-z-you-can-t-300x90.jpg
 ---

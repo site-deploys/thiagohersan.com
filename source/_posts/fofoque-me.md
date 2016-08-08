@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Fofoque-me
 description: public installation and communication system
-url: /project/fofoque-me/
+url: fofoque-me/
 date: 2012-06-01T13:18:56
 cover: /images/covers/fofoque-me-300x90.jpg
 github: https://github.com/thiagohersan/Fofoqueme
@@ -15,7 +15,7 @@ Interactive sculpture/installation, done in collaboration with Radamés Ajna, fo
 
 Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml)*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".
 
-![](fofocas.jpg)
+![](/images/projects/fofoque-me/fofocas.jpg)
 
 [[Super Interessante article about gossiping](http://super.abril.com.br/blogs/como-pessoas-funcionam/tag/fofoca/)]
 
@@ -25,7 +25,7 @@ I'm guessing these kinds of interactions also have their benefits, as a generic 
 
 Once we become solely concerned with sending (and "trending", "like-ing", etc), are our phones and tablets going to be the only ones actually interacting?
 
-![](ffq_simulado.png)
+![](/images/projects/fofoque-me/ffq_simulado.png)
 
 Fofoque-me is an installation that promotes a kind of collective broadcast communication within a given space by constantly sharing the text messages it receives.
 

@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Angry Letters
 description: performance/ritual
-url: /project/angry-letters/
+url: angry-letters/
 date: 2013-08-22T13:22:25
 cover: /images/covers/angry-letters-300x90.jpg
 github: https://github.com/thiagohersan/AngryLetters
@@ -21,17 +21,17 @@ A simple ritual for sharing angry messages with the world:
 6. Add return address (optional).
 7. Send, burn, burry or eat the letters.
 
-![](xIMG_0491.jpg)
+![](/images/projects/angry-letters/xIMG_0491.jpg)
 
-![](xIMG_0493.jpg)
+![](/images/projects/angry-letters/xIMG_0493.jpg)
 
-![](xIMG_0494.jpg)
+![](/images/projects/angry-letters/xIMG_0494.jpg)
 
-![](xIMG_0498.jpg)
+![](/images/projects/angry-letters/xIMG_0498.jpg)
 
-![](xIMG_0509.jpg)
+![](/images/projects/angry-letters/xIMG_0509.jpg)
 
-![](xIMG_0515.jpg)
+![](/images/projects/angry-letters/xIMG_0515.jpg)
 
 <div class="video-wrapper">
     <iframe src="//player.vimeo.com/video/98120021?byline=0&title=0&portrait=0" width="800" height="449" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: VerSom
 description: performance software
-url: /project/versom/
+url: versom/
 date: 2012-08-17T21:56:16
 cover: /images/covers/versom-300x90.jpg
 ---
@@ -17,23 +17,23 @@ The animation system was created in Processing based on initial sketches done by
 
 The control-panel/GUI:
 
-![](UI.png)
+![](/images/projects/versom/UI.png)
 
 And some of the scenes. This one created ‘O’ shapes whose size varied in accordance to the volume of the voice detected by the microphone:
 
-![](O2.png)
+![](/images/projects/versom/O2.png)
 
 This one released running streams of vowels in different directions:
 
-![](AE.png)
+![](/images/projects/versom/AE.png)
 
 This one used a [physics engine](http://www.jbox2d.org/) to simulate realistic arcing trajectories for small words made up of vowels:
 
-![](I.png)
+![](/images/projects/versom/I.png)
 
 More than one scene can be enabled at any given time, with different vowels, determined by the control panel:
 
-![](AEOU.png)
+![](/images/projects/versom/AEOU.png)
 
 The vowel-detection system was developed in Max/MSP using [Linear Predictive Coding](http://en.wikipedia.org/wiki/Linear_predictive_coding) analysis and filtering.
 

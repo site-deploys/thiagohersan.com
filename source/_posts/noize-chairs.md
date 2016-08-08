@@ -3,7 +3,7 @@ layout: project
 category: collaboration
 title: Nóize Chairs
 description: design object
-url: /project/noize-chairs/
+url: noize-chairs/
 date: 2012-06-30T03:10:53
 cover: /images/covers/noize-chairs-300x90.jpg
 github: https://github.com/thiagohersan/NoizeChairsProcessing/
@@ -19,6 +19,6 @@ These chairs were the second project in a series of collaborations with [Estudio
 
 The original chairs by Lina Bo Bardi, Marcelo Ferraz, Marcelo Suzuki, Sério Rodrigues and Carlos Motta were digitally modeled in 3D software to get a faithful reproduction of their physical model. These models then became the starting point for an unique design process that used sounds collected from 3 distinct neighborhoods in São Paulo to deform the original chair designs.
 
-![](NoizeChairs2.jpg)
+![](/images/projects/noize-chairs/NoizeChairs2.jpg)
 
 I was responsible for developing the software that analyzed audio files and converted their frequencies into one-dimensional deformation maps.

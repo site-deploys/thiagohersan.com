@@ -3,7 +3,7 @@ layout: project
 category: project
 title: uLikeMe (on facebook)
 description: online app
-url: /project/ulikeme-on-facebook/
+url: ulikeme-on-facebook/
 date: 2014-01-20T04:47:31
 cover: /images/covers/ulikeme-on-300x90.jpg
 github: https://github.com/thiagohersan/uLikeMe
@@ -18,7 +18,7 @@ In a post-privacy world where information about ourselves is shared (and [gather
 
 It creates the possibility of an on-demand online presence by posting a screenshot of my computer, along with a webcam picture, to my facebook profile, when someone actually wants to know what I'm doing.
 
-![](albums.jpg)
+![](/images/projects/ulikeme-on-facebook/albums.jpg)
 
 If this information is already available to the government, why not make it available to people I actually know?
 

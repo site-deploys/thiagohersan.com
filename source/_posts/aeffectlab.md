@@ -3,7 +3,7 @@ layout: project
 category: project
 title: ÆffectLab
 description: affective communication framework
-url: /project/aeffectlab/
+url: aeffectlab/
 date: 2013-07-24T16:06:04
 cover: /images/covers/aeffectlab-300x90.jpg
 github: https://github.com/astrovandalistas/AEffect-Lab
@@ -20,14 +20,14 @@ Having faster ways to communicate, using more bytes, and different media, doesn�
 
 Æffect Lab is a project developed by the Astrovandalistas collective. It is a local communication network in which human-human communication can develop and take place. It is a framework for promoting the creation of affective models of communication that are specific to a location, event or group of people.
 
-![](IMG_0264.jpg)
+![](/images/projects/aeffectlab/IMG_0264.jpg)
 
 Overall, it’s the start of a conversation about the social and psychological limits of our current forms of digital communication, the distances that emerge from these limits, and how we can use technology to ensure collective participation in certain social structures.
 
 The first practical instance of this network was created in July of 2013 for the Project Room in the Museum of Latin American Art in Long Beach, California.
 
-![](aeLab_ProjectRoom2.png)
+![](/images/projects/aeffectlab/aeLab_ProjectRoom2.png)
 
 In addition to the network, we also developed 4 different prototypes based on our own experiences, and desires for human-human communication. These prototypes serve as custom input and output interfaces that are specific for this particular space. They serve as examples of what can be done with such a framework, so even though they can be easily replicated, the idea is to encourage and teach people to build their own devices and interfaces for affective communication.
 
-![](IMG_0292.jpg)
+![](/images/projects/aeffectlab/IMG_0292.jpg)

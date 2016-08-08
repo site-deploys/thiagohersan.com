@@ -3,7 +3,7 @@ layout: project
 category: project
 title: An Argument For Technology
 description: installation
-url: /project/an-argument-for-technology/
+url: an-argument-for-technology/
 date: 2014-01-28T15:56:54
 cover: /images/covers/an-argument-for-300x90.jpg
 github: https://github.com/astrovandalistas/AFT
@@ -14,7 +14,7 @@ Inspired by the exhibition's theme of technological afterglow, this project made
 
 A future where we've successfully been able to optimize ourselves out, and technology is capable of communicating with itself using the leftovers of our digital affections.
 
-![](AFT_x.jpg)
+![](/images/projects/an-argument-for-technology/AFT_x.jpg)
 
 In this particular instance, a megaphone and a computer monitor discuss the aftermath of their relationship and existence using fatalistic texts scraped from search engines and social networking sites.
 

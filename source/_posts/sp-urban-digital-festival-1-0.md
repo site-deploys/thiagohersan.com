@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: SP_Urban Digital Festival 1.0
 description: public intervention
-url: /project/sp-urban-digital-festival-1-0/
+url: sp-urban-digital-festival-1-0/
 date: 2014-07-23T04:51:39
 cover: /images/covers/sp-urban-digital-300x90.jpg
 ---
@@ -25,13 +25,6 @@ Another way for the public to be involved with the project is through a series o
 As a public art intervention, this project is a kind of homage to other forms of technology-mediated communications, like architecture and photography. On the one hand, the work is an open platform that invites direct participation and creates an opportunity for playfulness through the use of a simple interface. On the other hand, it has a minimalist sculptural form that nonetheless transforms and reinterprets our urban landscape, and at the same time exists apart from any cliches associated with the new aesthetics of digital art. It is an experience, without being a spectacle.
 
 Also, transforming the FIESP building into a telematic object will give participants the unique opportunity to interact with the Paulista landscape using a channel that acts at the scale of the surrounding architecture.
-
-**Illustrative Example**  
-(Click on image)
-
-<div id="content">
-<canvas id="FIESPSimulator" data-processing-sources="http://www.thiagohersan.com/scripts/FIESPSimulator.pde" width="600" height="480"></canvas>
-</div>
 
 **Radamés Ajna**
 Brazilian multimedia artist with background in physics, mathematics and computation. Has worked as the coordinator for the interfaces lab at the **Museum of Image and Sound**, in São Paulo, and as a consultant for many media artists, designers, musicians, and architects, helping them create works with new technologies. As an educator, created the space **Hacklab.es**, teaching art and technology to students of various backgrounds. Was the recipient of a **[VIDA 15.0](http://vida.fundaciontelefonica.com/)** Production Incentive award from **Fundación Telefónica**, with Thiago Hersan.

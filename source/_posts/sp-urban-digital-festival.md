@@ -3,7 +3,7 @@ layout: project
 category: draft
 title: SP_Urban Digital Festival
 description: public intervention
-url: /project/sp-urban-digital-festival/
+url: sp-urban-digital-festival/
 date: 2014-07-26T02:07:17
 cover: /images/covers/sp-urban-digital-300x90.jpg
 ---
@@ -37,17 +37,17 @@ On the one hand, this project can be seen as a minimalist sculpture and site-spe
 - every picture taken shows up on the façade, sometimes overexposed, blurred, distorted, and then fades out
 
 **Illustrative Example**
-![](FIESP00_tgh_01.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_01.jpg)
 
-![](FIESP00_tgh_07.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_07.jpg)
 
-![](FIESP00_tgh_12.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_12.jpg)
 
-![](FIESP00_tgh_11.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_11.jpg)
 
-![](FIESP00_tgh_16.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_16.jpg)
 
-![](FIESP00_tgh_14.jpg)
+![](/images/projects/sp-urban-digital-festival/FIESP00_tgh_14.jpg)
 
 <div class="video-wrapper">
     <iframe src="//player.vimeo.com/video/101879119" width="800" height="600" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

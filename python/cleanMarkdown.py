@@ -11,6 +11,8 @@ posts = []
 
 if __name__ == "__main__":
     SOURCE_DIR = "source"
+    IMAGES_DIR = join(SOURCE_DIR, "images")
+    PROJECT_IMAGES_DIR = join(IMAGE_DIR, "projects")
     PROJ_DIR = join(SOURCE_DIR, "_projects")
     OUT_DIR = join(SOURCE_DIR, "_posts")
 
@@ -76,5 +78,5 @@ if __name__ == "__main__":
             out.write("---\n")
             out.write(p['content'])
             out.close()
-        if not exists(join(OUT_DIR, outputFileName)):
-            makedirs(join(OUT_DIR, outputFileName))
+        if not exists(join(PROJECT_IMAGES_DIR, outputFileName)):
+            makedirs(join(PROJECT_IMAGES_DIR, outputFileName))

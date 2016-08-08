@@ -3,7 +3,7 @@ layout: project
 category: project
 title: Bablrr
 description: mobile app
-url: /project/bablrr/
+url: bablrr/
 date: 2012-07-16T00:38:14
 cover: /images/covers/bablrr-300x90.jpg
 github: https://github.com/thiagohersan/BablrAndroid
@@ -19,12 +19,12 @@ A collaboration with visual/IX designer Ally Reeves, Bablrr is inspired by our l
 
 That's why we've created a super easy-to-use app that utilizes a trick you've likely seen before: converting text into an unusual image that insures only a human can read the numbers or messages being sent:
 
-![](bablrr00.png)
+![](/images/projects/bablrr/bablrr00.png)
 
-![](bablrr02.png)
+![](/images/projects/bablrr/bablrr02.png)
 
 Bablrr provides a simple interface to share non-monetizable messages in social networking sites while drawing attention to issues concerning our digital public lives and the involuntary commercialization of our data.
 
-![](bablrr_facebook.png)
+![](/images/projects/bablrr/bablrr_facebook.png)
 
 Babel On!
