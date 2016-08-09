@@ -13,8 +13,10 @@ meta(property="og:site_name" content="#{config.title}")
 meta(property="article:publisher" content="https://#{config.social.facebook_url}")
 
 if page.cover
-  meta(name="twitter:image" content="#{config.url}#{page.cover}")
-  meta(property="og:image" content="#{config.url}#{page.cover}")
+  - var coverImagePath = config.url+''+page.cover.replace('-300x90','')
+  meta(name="twitter:image" content=coverImagePath)
+  meta(property="og:image" content=coverImagePath)
 else
-  meta(name="twitter:image" content="#{config.url}#{config.default_cover}")
-  meta(property="og:image" content="#{config.url}#{config.default_cover}")
+  - var coverImagePath = config.url+''+config.default_cover.replace('-300x90','')
+  meta(name="twitter:image" content=coverImagePath)
+  meta(property="og:image" content=coverImagePath)
