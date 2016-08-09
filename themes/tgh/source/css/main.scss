@@ -129,6 +129,13 @@ body {
     border-radius: 5px;
   }
 
+  .inline-image-container {
+    margin-bottom: $VERTICAL-SECTION-SPACING/2;
+    img {
+      display: inline;
+    }
+  }
+
   .video-wrapper-16x9 {
     padding-bottom: 56.25%;
   }

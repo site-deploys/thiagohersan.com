@@ -12,11 +12,17 @@ www: http://thiagohersan.com/iLikeYou
 ---
 Anyone who understands big data will agree that: 
 
-![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) = ![](/images/projects/ilikeyou-on-facebook/heart.png)
+<div class="inline-image-container">
+  ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) + ![](/images/projects/ilikeyou-on-facebook/like.png) = ![](/images/projects/ilikeyou-on-facebook/heart.png)
+</div>
 
-iLikeYou (on facebook) is a web app designed to help us quantify our feelings towards each other. It goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
+<div class="inline-image-container">
+  iLikeYou (on facebook) is a web app designed to help us quantify our feelings towards each other. It  goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
+</div>
 
-Much like real love, the amount of data you can actually ![](/images/projects/ilikeyou-on-facebook/like.png) using this app is determined by the other person's privacy settings and how much they trust you.
+<div class="inline-image-container">
+  Much like real love, the amount of data you can actually ![](/images/projects/ilikeyou-on-facebook/like.png) using this app is determined by the other person's privacy settings and how much they trust you.
+</div>
 
 <div class="video-wrapper video-wrapper-16x9">
     <iframe src="//player.vimeo.com/video/83561856?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
