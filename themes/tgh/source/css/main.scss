@@ -68,14 +68,10 @@ body {
   justify-content: space-around;
   -webkit-align-content: center;
   align-content: center;
+}
 
-  .contact-image {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-justify-content: center;
-    justify-content: center;
-    margin: $VERTICAL-SECTION-SPACING/4 0;
-  }
+#list {
+    padding: 0 $LIST-IMAGE-SPACING;
 }
 
 #list .project-list-container {
@@ -113,6 +109,8 @@ body {
 #project {
   display: block;
   margin: 0 auto;
+  padding: 0 $LIST-IMAGE-SPACING;
+  width: 100%;
 
   max-width: $one_column;
   @include media-query(TWO) {
@@ -165,10 +163,18 @@ body {
   }
 
   .home-video-wrapper {
-    max-width: 500px;
-    //float: right;
-    //margin-left: $HORIZONTAL-ITEM-SPACING;
-    margin: 1rem auto;
+    float: right;
+    width: 100%;
+    height: 100%;
+
+    .video-wrapper {
+      margin: 0 auto;
+    }
+
+    @include media-query(THREE) {
+      max-width: $two_columns;
+      margin-left: $HORIZONTAL-ITEM-SPACING;
+    }
   }
 }
 
