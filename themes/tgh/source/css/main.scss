@@ -112,10 +112,6 @@ body {
   padding: 0 $LIST-IMAGE-SPACING;
   width: 100%;
 
-  max-width: $one_column;
-  @include media-query(TWO) {
-    max-width: $two_columns;
-  }
   @include media-query(THREE) {
     max-width: $three_columns;
   }
@@ -163,16 +159,18 @@ body {
   }
 
   .home-video-wrapper {
-    float: right;
     width: 100%;
     height: 100%;
+    float: none;
+    max-width: $two_columns;
+    margin: 0 auto;
 
     .video-wrapper {
       margin: 0 auto;
     }
 
     @include media-query(THREE) {
-      max-width: $two_columns;
+      float: right;
       margin-left: $HORIZONTAL-ITEM-SPACING;
     }
   }
