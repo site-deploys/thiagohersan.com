@@ -6,7 +6,7 @@ $family-sans: 'Merriweather Sans', 'Arial';
 
 $text-size: 1.2rem;
 $menu-size: 1.5rem;
-$menu-size-small: 1.3rem;
+$menu-size-small: 1.2rem;
 $project-title-size: 1.5rem;
 $detail-size: 1.1rem;
 
@@ -68,9 +68,9 @@ $detail-size: 1.1rem;
   }
 
   #menu a {
-    font-size: $menu-size-small; // $family-serif; ??
+    font-size: $menu-size-small;
     @include media-query(BIG_MENU){
-      font-size: $menu-size; // $family-serif; ??
+      font-size: $menu-size;
     }
 
     transition: background $TRANSITION-PERIOD linear;
