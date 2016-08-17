@@ -24,7 +24,7 @@ window.onload = function() {
     }, 555);
   }
   else {
-    var newUrl = mUrl.replace(/-?[0-9]+(\/)?$/, "");
+    var newUrl = mUrl.replace(/-?[0-9]+(\/)?$/, "/");
     window.location.href = newUrl+""+FOF_TOKEN;
   }
 };
