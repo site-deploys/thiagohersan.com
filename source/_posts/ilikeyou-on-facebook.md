@@ -8,7 +8,7 @@ date: 2013-12-20T03:32:06
 cover: /images/covers/ilikeyou-on-300x90.jpg
 github: https://github.com/thiagohersan/iLikeYou
 vimeo: https://vimeo.com/83561856
-www: http://thiagohersan.com/iLikeYou
+www: http://app.thiagohersan.com/iLikeYou/
 ---
 Anyone who understands big data will agree that: 
 

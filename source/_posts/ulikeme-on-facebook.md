@@ -8,7 +8,7 @@ date: 2014-01-20T04:47:31
 cover: /images/covers/ulikeme-on-300x90.jpg
 github: https://github.com/thiagohersan/uLikeMe
 vimeo: https://vimeo.com/112552633
-www: http://thiagohersan.com/uLikeMe/
+www: http://app.thiagohersan.com/uLikeMe/
 ---
 If a tweet falls in the woods...
 
