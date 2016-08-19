@@ -16,7 +16,7 @@ In 2012 I was the technical coordinator at [Marginalia+Lab](https://vimeo.com/ma
 
 During that time I was also involved with the art and technology residency program at the [Museum of Image and Sound](http://www.labmis.org.br/) in São Paulo, Brazil; and with [Nuvem](https://nuvem.tk/), the rural residency space in Resende, Brazil.
 
-More recently, I worked as a design-engineer at [BeatBots](https://www.behance.net/beatbots) in San Francisco, where we prototyped interactive robotic toys, and other things.
+More recently, I worked as a design-engineer at [BeatBots](http://www.beatbots.net/) in San Francisco, where we prototyped interactive robotic toys, and other things.
 
 And, in 2015, I helped start and run [FACTLab](http://alab.space/), as a Researcher in Residence at FACT in Liverpool.
 
