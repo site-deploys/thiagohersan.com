@@ -1,11 +1,10 @@
-@import '_helpers/colors';
 @import '_helpers/constants';
 @import '_helpers/fonts';
 
 @include fonts;
 
 body {
-  background: $background;
+  background: $BACKGROUND-COLOR;
   margin: 8px 0;
 }
 
@@ -15,7 +14,7 @@ body {
     margin: $VERTICAL-SECTION-SPACING 0;
   }
 
-  background: $menu;
+  background: $MENU-COLOR;
 
   .menu-container {
     display: -webkit-flex;
@@ -81,12 +80,12 @@ body {
   -webkit-justify-content: space-between;
   justify-content: space-between;
 
-  max-width: $one_column;
+  max-width: $ONE-COLUMN;
   @include media-query(TWO) {
-    max-width: $two_columns;
+    max-width: $TWO-COLUMNS;
   }
   @include media-query(THREE) {
-    max-width: $three_columns;
+    max-width: $THREE-COLUMNS;
   }
 
   img {
@@ -112,7 +111,7 @@ body {
   width: 100%;
 
   @include media-query(THREE) {
-    max-width: $three_columns;
+    max-width: $THREE-COLUMNS;
   }
 
   img {
@@ -161,7 +160,7 @@ body {
     width: 100%;
     height: 100%;
     float: none;
-    max-width: $two_columns;
+    max-width: $TWO-COLUMNS;
     margin: 0 auto;
 
     .video-wrapper {

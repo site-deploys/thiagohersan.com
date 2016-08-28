@@ -1,5 +1,4 @@
 @import 'constants';
-@import 'colors';
 
 $family-serif: 'Merriweather', 'Times New Roman';
 $family-sans: 'Merriweather Sans', 'Arial';
@@ -23,7 +22,7 @@ $detail-size: 1.1rem;
 
   body {
     font: normal $text-size $family-serif;
-    color: $text-color;
+    color: $TEXT-COLOR;
   }
 
   h1 { font-size: 2rem; }
@@ -53,17 +52,17 @@ $detail-size: 1.1rem;
   a {
     font: bold $detail-size $family-sans;
     text-decoration: none;
-    color: $link-color;
+    color: $LINK-COLOR;
     cursor: pointer;
     text-transform: uppercase;
     transition: color $TRANSITION-PERIOD linear;
 
     &:visited {
-      color: $link-color-visited;
+      color: $LINK-COLOR-VISITED;
     }
 
     &:hover {
-      color: $link-color-hover;
+      color: $LINK-COLOR-HOVER;
     }
   }
 
@@ -76,14 +75,14 @@ $detail-size: 1.1rem;
     transition: background $TRANSITION-PERIOD linear;
 
     &:hover {
-      background: $menu-over;
-      color: $link-color;
+      background: $MENU-COLOR-HOVER;
+      color: $LINK-COLOR;
     }
   }
 
   .content-title {
     font: bold $project-title-size $family-sans;
-    color: $title-color;
+    color: $TITLE-COLOR;
   }
 
   #list .content-title {

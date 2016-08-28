@@ -1,3 +1,16 @@
+$BACKGROUND-COLOR: rgba(244,244,244,1);
+$MENU-COLOR: darken($BACKGROUND-COLOR, 10%);
+$MENU-COLOR-HOVER: darken($BACKGROUND-COLOR, 20%);
+
+$TEXT-COLOR-BASE: rgba(0,0,0,1);
+$TITLE-COLOR: lighten($TEXT-COLOR-BASE, 10%);
+$TEXT-COLOR: lighten($TEXT-COLOR-BASE, 33%);
+
+$ACCENT-COLOR-BASE: rgba(0,0,130,1);
+$LINK-COLOR: $TITLE-COLOR;
+$LINK-COLOR-VISITED: $LINK-COLOR;
+$LINK-COLOR-HOVER: lighten($ACCENT-COLOR-BASE, 50%);
+
 $DESKTOP-WIDTH-SITE: 1280px;
 
 $LIST-IMAGE-WIDTH: 300px;
@@ -10,19 +23,19 @@ $HORIZONTAL-ITEM-SPACING: 25px;
 
 $TRANSITION-PERIOD: 0.25s;
 
-$one_column: $LIST-IMAGE-WIDTH;
-$two_columns: (2 * $LIST-IMAGE-WIDTH) + (1 * $LIST-IMAGE-SPACING);
-$big_menu: ($DESKTOP-WIDTH-SITE / 7) * 4;
-$three_columns: (3 * $LIST-IMAGE-WIDTH) + (2 * $LIST-IMAGE-SPACING);
+$ONE-COLUMN: $LIST-IMAGE-WIDTH;
+$TWO-COLUMNS: (2 * $LIST-IMAGE-WIDTH) + (1 * $LIST-IMAGE-SPACING);
+$BIG-MENU: ($DESKTOP-WIDTH-SITE / 7) * 4;
+$THREE-COLUMNS: (3 * $LIST-IMAGE-WIDTH) + (2 * $LIST-IMAGE-SPACING);
 
 @mixin media-query($canvas) {
   @if $canvas == TWO {
-   @media only screen and (min-width: $two_columns) { @content; }
+   @media only screen and (min-width: $TWO-COLUMNS) { @content; }
   }
   @else if $canvas == BIG_MENU {
-   @media only screen and (min-width: $big_menu) { @content; }
+   @media only screen and (min-width: $BIG-MENU) { @content; }
   }
   @else if $canvas == THREE {
-   @media only screen and (min-width: $three_columns) { @content; }
+   @media only screen and (min-width: $THREE-COLUMNS) { @content; }
   }
 }
