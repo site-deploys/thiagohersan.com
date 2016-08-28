@@ -5,7 +5,7 @@ title: Video Boleba
 description: installation
 url: video-boleba/
 date: 2012-11-10T01:14:56
-cover: /images/covers/video-boleba-300x90.jpg
+cover: /images/covers/video-boleba.jpg
 github: https://github.com/thiagohersan/videoBolebaArduino
 collab: https://www.youtube.com/user/CelinaPortella
 ---

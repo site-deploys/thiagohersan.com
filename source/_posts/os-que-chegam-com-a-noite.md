@@ -5,7 +5,7 @@ title: Os Que Chegam Com a Noite
 description: public intervention
 url: os-que-chegam-com-a-noite/
 date: 2012-09-17T01:00:29
-cover: /images/covers/os-que-chegam-a-300x90.jpg
+cover: /images/covers/os-que-chegam-a.jpg
 github: https://github.com/thiagohersan/osQueChegamComANoite
 collab: https://vimeo.com/cimarcelle/
 ---

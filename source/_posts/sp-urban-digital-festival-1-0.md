@@ -5,7 +5,7 @@ title: SP_Urban Digital Festival 1.0
 description: public intervention
 url: sp-urban-digital-festival-1-0/
 date: 2014-07-23T04:51:39
-cover: /images/covers/sp-urban-digital-300x90.jpg
+cover: /images/covers/sp-urban-digital.jpg
 ---
 **Motivations**
 As we keep racing to make our communication devices better, faster and smaller, in an attempt to streamline our interactions, it is not hard to imagine a future where public space has been completely relegated to the virtual. A future where protests, celebrations, civic participation and public communication, all happen over apps and other kinds of standardized digital interfaces.

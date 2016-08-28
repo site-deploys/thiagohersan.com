@@ -5,7 +5,7 @@ title: Once Upon a Time Collection
 description: design objects
 url: once-upon-a-time-collection/
 date: 2012-04-12T02:55:28
-cover: /images/covers/once-upon-a-time-300x90.jpg
+cover: /images/covers/once-upon-a-time.jpg
 github: https://github.com/thiagohersan/EraUmaVezProcessing/
 www: http://gutorequena.com.br/site/work/objects/once-upon-a-time-collection/22/
 collab: http://gutorequena.com.br/

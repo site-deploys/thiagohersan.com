@@ -5,7 +5,7 @@ title: '#bangMTY'
 description: interactive public installation and intervention
 url: bangmty/
 date: 2013-03-17T01:38:03
-cover: /images/covers/bangmty-300x90.jpg
+cover: /images/covers/bangmty.jpg
 github: https://github.com/astrovandalistas/bangMTYRpiPy
 vimeo: https://vimeo.com/46611303
 pics: https://www.flickr.com/photos/microhom/sets/72157633094315817

@@ -5,7 +5,7 @@ title: VerSom
 description: performance software
 url: versom/
 date: 2012-08-17T21:56:16
-cover: /images/covers/versom-300x90.jpg
+cover: /images/covers/versom.jpg
 ---
 During the months of august and september of 2012, I worked with the residents Ciça Lucchesi and Juliana Perdigão on their project *VerSom* while they were in residency at Marginalia+Lab.
 

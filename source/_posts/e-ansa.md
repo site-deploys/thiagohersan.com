@@ -5,7 +5,7 @@ title: E-ansã
 description: reactive dress
 url: e-ansa/
 date: 2010-11-15T21:30:31
-cover: /images/covers/e-ansa-300x90.jpg
+cover: /images/covers/e-ansa.jpg
 github: https://github.com/thiagohersan/eAnsaArduino/
 vimeo: https://vimeo.com/54222659/
 www: http://www.onascimento.com/#/e-ans/

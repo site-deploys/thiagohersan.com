@@ -5,7 +5,7 @@ title: SP_Urban Digital Festival
 description: public intervention
 url: sp-urban-digital-festival/
 date: 2014-07-26T02:07:17
-cover: /images/covers/sp-urban-digital-300x90.jpg
+cover: /images/covers/sp-urban-digital.jpg
 ---
 **Title**
 0.25 FPS

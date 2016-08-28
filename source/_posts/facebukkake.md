@@ -5,7 +5,7 @@ title: Facebukkake
 description: online performance
 url: facebukkake/
 date: 2010-10-10T23:13:43
-cover: /images/covers/facebukkake-300x90.jpg
+cover: /images/covers/facebukkake.jpg
 ---
 If you don't know what *bukkake* is, don't look it up. Specially not on google images. All you need to know is that it's japanese for *[e pluribus unum](http://en.wikipedia.org/wiki/E_pluribus_unum)*, or, "from many, to one".
 

@@ -5,7 +5,7 @@ title: Kirlian Machine
 description: mystic apparatus
 url: kirlian-machine/
 date: 2012-07-17T20:56:43
-cover: /images/covers/kirlian-machine-300x90.jpg
+cover: /images/covers/kirlian-machine.jpg
 ---
 While I was the technical coordinator at Marginalia+Lab, I got to work with artists/photographers Livia Chagas and Wemersom Machado on their project, *Auras*.
 

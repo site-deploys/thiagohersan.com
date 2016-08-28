@@ -5,7 +5,7 @@ title: Auras
 description: cosmic apparatus and photography
 url: auras/
 date: 2012-09-01T22:11:57
-cover: /images/covers/auras-300x90.jpg
+cover: /images/covers/auras.jpg
 github: https://github.com/thiagohersan/auras04Arduino
 ---
 The [Kirlian photography apparatus](/project/kirlian-machine/) that I built together with Livia Chagas and Wemerson Machado worked pretty well for taking pictures of fingers, plants, coins and other metallic objects, but it was not very practical for taking pictures of someone's entire aura.

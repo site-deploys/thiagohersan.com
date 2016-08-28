@@ -5,7 +5,7 @@ title: Pulsu(m) Plantae v.2
 description: installation
 url: pulsu-m-plantae-v-2/
 date: 2013-04-23T15:52:54
-cover: /images/covers/pulsu-m-plantae-300x90.jpg
+cover: /images/covers/pulsu-m-plantae.jpg
 github: https://github.com/Lessnullvoid/Pulsum-Plantae/
 vimeo: https://vimeo.com/62232734/
 pics: https://www.flickr.com/photos/microhom/sets/72157628012884348/

@@ -5,7 +5,7 @@ title: memememe
 description: installation and research
 url: memememe/
 date: 2014-06-06T18:18:59
-cover: /images/covers/memememe-300x90.jpg
+cover: /images/covers/memememe.jpg
 github: https://github.com/thiagohersan/memememe
 vimeo: https://vimeo.com/88619700
 pics: https://www.flickr.com/photos/tuukul/sets/72157646159118191

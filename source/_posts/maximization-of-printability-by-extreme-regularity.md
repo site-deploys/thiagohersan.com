@@ -5,7 +5,7 @@ title: Maximization of Printability by Extreme Regularity
 description: MS thesis in electrical engineering
 url: maximization-of-printability-by-extreme-regularity/
 date: 2006-12-14T21:29:24
-cover: /images/covers/maximization-of-300x90.jpg
+cover: /images/covers/maximization-of.jpg
 ---
 This was my master's degree work on the effects of design regularity on performance and manufacturability of integrated circuits.
 

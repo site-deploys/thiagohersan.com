@@ -5,7 +5,7 @@ title: El Abismo
 description: collaborative performance, collective documentation
 url: el-abismo/
 date: 2013-01-27T03:16:07
-cover: /images/covers/el-abismo-300x90.jpg
+cover: /images/covers/el-abismo.jpg
 github: https://github.com/astrovandalistas/AbismoTwitterOF
 vimeo: https://vimeo.com/77638955
 pics: https://www.flickr.com/photos/microhom/sets/72157632606087124

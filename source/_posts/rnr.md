@@ -5,7 +5,7 @@ title: RnR
 description: custom software and prints
 url: rnr/
 date: 2015-06-15T20:32:00
-cover: /images/covers/rnr-300x90.jpg
+cover: /images/covers/rnr.jpg
 ---
 Three songs with the same name, but by different artists and genres, are processed by custom software that analyzes and orders their samples by numeric value.
 

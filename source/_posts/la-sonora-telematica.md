@@ -5,7 +5,7 @@ title: La Sonora Telemática
 description: collaborative installation
 url: la-sonora-telematica/
 date: 2014-05-27T15:05:15
-cover: /images/covers/la-sonora-300x90.jpg
+cover: /images/covers/la-sonora.jpg
 github: https://github.com/astrovandalistas/LaSonoraMontreal
 astros: http://www.astrovandalistas.cc/base/portfolio/la-sonora-telematica/
 ---

@@ -5,7 +5,7 @@ title: Front and Center
 description: public installation, happening and event
 url: front-and-center/
 date: 2013-10-19T17:32:52
-cover: /images/covers/front-and-center-300x90.jpg
+cover: /images/covers/front-and-center.jpg
 ---
 Cities are also networked-sites where personal narratives, sustained by cultural constructs like popular music, coexist daily but remain disconnected. However, our phones have lately become the main vehicle for the ongoing consumption and reenactment of today’s cultural commons, although only at a personal level. Is there anyone else listening to what I listen, seeing what I see or doing what I do? This project seeks to engage citizens from different cities via open platforms that allow them to connect remotely and use mobile devices as a virtual window to make visible the invisible.
 

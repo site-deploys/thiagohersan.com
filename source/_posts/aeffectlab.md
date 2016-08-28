@@ -5,7 +5,7 @@ title: ÆffectLab
 description: affective communication framework
 url: aeffectlab/
 date: 2013-07-24T16:06:04
-cover: /images/covers/aeffectlab-300x90.jpg
+cover: /images/covers/aeffectlab.jpg
 github: https://github.com/astrovandalistas/AEffect-Lab
 vimeo: https://vimeo.com/77366588
 astros: http://astrovandalistas.cc/aeffectlab/

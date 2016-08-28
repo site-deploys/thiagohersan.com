@@ -5,7 +5,7 @@ title: iLikeMe (on facebook)
 description: online app
 url: ilikeme-on-facebook/
 date: 2013-12-12T05:49:28
-cover: /images/covers/ilikeme-on-300x90.jpg
+cover: /images/covers/ilikeme-on.jpg
 github: https://github.com/thiagohersan/iLikeMe
 vimeo: https://vimeo.com/82536764
 ---

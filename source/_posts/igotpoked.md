@@ -5,7 +5,7 @@ title: iGotPoked
 description: performance/collage
 url: igotpoked/
 date: 2011-01-15T02:15:14
-cover: /images/covers/igotpoked-300x90.jpg
+cover: /images/covers/igotpoked.jpg
 ---
 As a true technology skeptic, I can't really embrace the idea that digital is always better. 
 

@@ -5,7 +5,7 @@ title: Not Too Public
 description: interactive public installation/intervention
 url: not-too-public/
 date: 2013-12-06T05:50:14
-cover: /images/covers/not-too-public-300x90.jpg
+cover: /images/covers/not-too-public.jpg
 github: https://github.com/thiagohersan/NotTooPublic
 collab: http://www.lo13.com/
 ---

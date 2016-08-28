@@ -5,7 +5,7 @@ title: Bablrr
 description: mobile app
 url: bablrr/
 date: 2012-07-16T00:38:14
-cover: /images/covers/bablrr-300x90.jpg
+cover: /images/covers/bablrr.jpg
 github: https://github.com/thiagohersan/BablrAndroid
 vimeo: https://vimeo.com/49729887
 www: https://play.google.com/store/apps/details?id=com.hersan.bablrr

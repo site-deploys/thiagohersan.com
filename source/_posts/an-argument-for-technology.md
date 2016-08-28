@@ -5,7 +5,7 @@ title: An Argument For Technology
 description: installation
 url: an-argument-for-technology/
 date: 2014-01-28T15:56:54
-cover: /images/covers/an-argument-for-300x90.jpg
+cover: /images/covers/an-argument-for.jpg
 github: https://github.com/astrovandalistas/AFT
 vimeo: https://vimeo.com/85982338
 astros: http://www.astrovandalistas.cc/base/portfolio/argument-for-technology/

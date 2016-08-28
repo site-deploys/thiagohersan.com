@@ -5,7 +5,7 @@ title: UN_TIT_LED
 description: interactive installation
 url: un-tit-led/
 date: 2011-05-30T23:45:38
-cover: /images/covers/un-tit-led-300x90.jpg
+cover: /images/covers/un-tit-led.jpg
 github: https://github.com/thiagohersan/un_tit_ledArduino
 www: http://lizzydevita.com/un_tit_led
 collab: http://lizzydevita.com/
