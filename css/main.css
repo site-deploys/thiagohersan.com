@@ -151,7 +151,7 @@ body {
     #list .project-list-container img:hover {
       opacity: 0.5; }
   #list .project-list-container .project-list-item {
-    height: 90px;
+    height: 150px;
     margin-bottom: 10px; }
 
 #project {
