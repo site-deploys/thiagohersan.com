@@ -169,6 +169,7 @@ body {
     @include media-query(THREE) {
       float: right;
       margin-left: $HORIZONTAL-ITEM-SPACING;
+      margin-bottom: 1em;
     }
   }
 }

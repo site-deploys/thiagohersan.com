@@ -6,7 +6,7 @@ date: 2016-01-01T00:00:00
 ---
 I used to design circuits and improve semiconductor manufacturing technologies.
 
-In 2012 I was the technical coordinator at [Marginalia+Lab](https://vimeo.com/marginalialab), the art and technology space for creation and research in Belo Horizonte, Brazil.
+In 2012 I was the technical coordinator at [Marginalia+Lab](https://vimeo.com/marginalialab), an art and technology residency space in Belo Horizonte, Brazil.
 
 <div class="home-video-wrapper">
   <div class="video-wrapper video-wrapper-16x9">
@@ -14,10 +14,8 @@ In 2012 I was the technical coordinator at [Marginalia+Lab](https://vimeo.com/ma
   </div>
 </div>
 
-During that time I was also involved with the art and technology residency program at the [Museum of Image and Sound](http://www.labmis.org.br/) in São Paulo, Brazil; and with [Nuvem](https://nuvem.tk/), the rural residency space in Resende, Brazil.
-
 More recently, I worked as a design-engineer at [BeatBots](http://www.beatbots.net/) in San Francisco, where we prototyped interactive robotic toys, and other things.
 
-And, in 2015, I helped start and run [FACTLab](http://alab.space/), as a Researcher in Residence at FACT in Liverpool.
+In 2015, as a Researcher in Residence at FACT in Liverpool, I helped start and run [FACTLab](http://alab.space/) and the [Reading & Thinging](http://olf.space) study group.
 
-I’m part of [Astrovandalistas](http://www.astrovandalistas.cc/base/), an art+tech+activism collective based in Mexico City, whose work is primarily focused on coming up with interfaces for enhancing human-human interaction.
+I’m also part of [Astrovandalistas](http://www.astrovandalistas.cc/base/), an art+technology+activism collective based in Mexico City.
