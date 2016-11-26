@@ -1,6 +1,6 @@
 ---
 layout: project
-category: project
+category: draft
 title: 'memememe#selfie'
 description: installation
 url: memememe-selfie/
