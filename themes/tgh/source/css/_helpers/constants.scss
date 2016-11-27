@@ -25,15 +25,11 @@ $TRANSITION-PERIOD: 0.25s;
 
 $ONE-COLUMN: $LIST-IMAGE-WIDTH;
 $TWO-COLUMNS: (2 * $LIST-IMAGE-WIDTH) + (1 * $LIST-IMAGE-SPACING);
-$BIG-MENU: ($DESKTOP-WIDTH-SITE / 7) * 4;
 $THREE-COLUMNS: (3 * $LIST-IMAGE-WIDTH) + (2 * $LIST-IMAGE-SPACING);
 
 @mixin media-query($canvas) {
   @if $canvas == TWO {
    @media only screen and (min-width: $TWO-COLUMNS) { @content; }
-  }
-  @else if $canvas == BIG_MENU {
-   @media only screen and (min-width: $BIG-MENU) { @content; }
   }
   @else if $canvas == THREE {
    @media only screen and (min-width: $THREE-COLUMNS) { @content; }

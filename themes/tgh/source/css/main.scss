@@ -28,7 +28,7 @@ body {
       -webkit-justify-content: space-between;
       justify-content: space-between;
     }
-    @include media-query(BIG_MENU) {
+    @include media-query(THREE) {
       -webkit-justify-content: space-around;
       justify-content: space-around;
     }
