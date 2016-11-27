@@ -30,6 +30,8 @@ This data, of a possible encounter of relations between the intention of one per
 
 ![](/images/projects/topologias-del-deseo/topologia02.jpg)
 
+I was mostly responsible for writing scripts to turn the time-domain EEG data into 3D shapes. I also helped plan and design the 6-channel laser turntables.
+
 ![](/images/projects/topologias-del-deseo/topologia03.jpg)
 
 
