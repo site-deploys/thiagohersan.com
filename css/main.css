@@ -56,9 +56,6 @@ a {
 #menu a {
   font-size: 1.2rem;
   transition: background 0.25s linear; }
-  @media only screen and (min-width: 731.42857px) {
-    #menu a {
-      font-size: 1.5rem; } }
   #menu a:hover {
     background: #c1c1c1;
     color: #1a1a1a; }
@@ -97,7 +94,7 @@ body {
         flex-direction: row;
         -webkit-justify-content: space-between;
         justify-content: space-between; } }
-    @media only screen and (min-width: 731.42857px) {
+    @media only screen and (min-width: 920px) {
       #menu .menu-container {
         -webkit-justify-content: space-around;
         justify-content: space-around; } }
