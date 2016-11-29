@@ -29,12 +29,10 @@ Based on participants' concerns about the industrial and labor cycles in the reg
 
 This communication system with the future uses a laser cutter to engrave some of our present concerns and predictions about the future onto stones. We wrote software to turn english/spanish words into symbols using a hieroglyphic alphabet that we created.
 
-![](/images/projects/narrativas-futuro/juarez03.jpg)
+![](/images/projects/narrativas-futuro/juarez0307.jpg)
 
 ![](/images/projects/narrativas-futuro/juarez0500.jpg)
 
 Once engraved, these stones are returned to construction sites, gentrifying neighborhoods, abandoned factories, unfinished public projects, and other contested zones on both sides of the border.
-
-![](/images/projects/narrativas-futuro/juarez07.jpg)
 
 ![](/images/projects/narrativas-futuro/juarez0106.jpg)
