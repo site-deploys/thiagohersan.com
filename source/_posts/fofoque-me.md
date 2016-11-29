@@ -11,6 +11,8 @@ vimeo: https://vimeo.com/48852839
 pics: https://www.flickr.com/photos/tuukul/sets/72157630039987508
 collab: https://www.radames.in/
 ---
+![](/images/projects/fofoque-me/ffqme.jpg)
+
 Interactive sculpture/installation, done in collaboration with Radamés Ajna, for the event Circuito Vivo arte.mov 2012 - São Paulo, in May of 2012.
 
 Up until the beginning of the 2000s, some social psychologists and anthropologists were actually optimistic about potential benefits brought by mobile communication technologies. In *[Evolution, Alienation and Gossip](http://www.sirc.org/publik/gossip.shtml)*, Kate Fox talks about the importance of gossiping; from its role in language evolution to its social and psychological benefits, and links it to mobile text messaging. There was some evidence that suggested that the use of mobile texting was actually strengthening and promoting tighter social networks in the "fast-paced modern world".

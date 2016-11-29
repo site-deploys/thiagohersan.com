@@ -10,9 +10,9 @@ github: https://github.com/astrovandalistas/TerritoryOfTheImaginario
 vimeo: https://vimeo.com/165527282
 astros: http://astrovandalistas.cc/inverso/
 ---
-*Imaginario Inverso* is an ongoing investigation into the industrialization of our social imaginary through the commercialization of scientific knowledge. We are proposing different frameworks for reflecting on the geopolitics of technology development and the reinterpretation of technologies for more personal uses, through a series of workshops, talks and exhibitions using conceptual prototyping, futurecasting, reappropriations, and micronarratives.
-
 ![](/images/projects/laser-chat-fronterizo/exteresa01.jpg)
+
+*Imaginario Inverso* is an ongoing investigation into the industrialization of our social imaginary through the commercialization of scientific knowledge. We are proposing different frameworks for reflecting on the geopolitics of technology development and the reinterpretation of technologies for more personal uses, through a series of workshops, talks and exhibitions using conceptual prototyping, futurecasting, reappropriations, and micronarratives.
 
 *Laser Chat Fronterizo* is a project that began during a residence in the border region between the states of Chihuahua in Mexico, and Texas and New Mexico in the United States. In this region, the city of Juárez/El Paso marks where the border between the two countries is no longer defined by the Rio Bravo and instead is formed by straight lines to the Pacific Ocean.
 

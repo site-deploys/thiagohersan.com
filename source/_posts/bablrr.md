@@ -11,6 +11,8 @@ vimeo: https://vimeo.com/49729887
 www: https://play.google.com/store/apps/details?id=com.hersan.bablrr
 collab: http://allyreeves.com/
 ---
+![](/images/projects/bablrr/bablrr0002.png)
+
 A collaboration with visual/IX designer Ally Reeves, Bablrr is inspired by our love of keeping it sneaky: in the past decade we've seen some amazing subversions of basic social networking tools like twitter, facebook and simple text messaging. We'd like to help people keep their quick texts under wraps when it comes to being monitored on anything other than a basic human scale.
 
 <div class="video-wrapper video-wrapper-16x9">
@@ -18,10 +20,6 @@ A collaboration with visual/IX designer Ally Reeves, Bablrr is inspired by our l
 </div>
 
 That's why we've created a super easy-to-use app that utilizes a trick you've likely seen before: converting text into an unusual image that insures only a human can read the numbers or messages being sent:
-
-![](/images/projects/bablrr/bablrr00.png)
-
-![](/images/projects/bablrr/bablrr02.png)
 
 Bablrr provides a simple interface to share non-monetizable messages in social networking sites while drawing attention to issues concerning our digital public lives and the involuntary commercialization of our data.
 

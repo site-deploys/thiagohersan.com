@@ -9,9 +9,9 @@ cover: /images/covers/la-sonora.jpg
 github: https://github.com/astrovandalistas/LaSonoraMontreal
 astros: http://www.astrovandalistas.cc/base/portfolio/la-sonora-telematica/
 ---
-Part workshop, part collective documentation, part installation, part audiovisual collage, part occupation... this was a project that combined ideas from two previous projects, [El Abismo No Nos Detiene](/project/el-abismo/) and [Æffect Lab](/project/aeffectlab/), to create a collective narrative about events related to the [Maple Spring](http://en.wikipedia.org/wiki/2012_Quebec_student_protests) protests of 2012.
-
 ![](/images/projects/la-sonora-telematica/s_LaSonora02_bw.jpg)
+
+Part workshop, part collective documentation, part installation, part audiovisual collage, part occupation... this was a project that combined ideas from two previous projects, [El Abismo No Nos Detiene](/project/el-abismo/) and [Æffect Lab](/project/aeffectlab/), to create a collective narrative about events related to the [Maple Spring](http://en.wikipedia.org/wiki/2012_Quebec_student_protests) protests of 2012.
 
 Whether you participated or disagreed with the manifestations, if you were in Montreal around the time of the protests, you probably have an opinion about them.
 

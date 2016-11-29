@@ -9,6 +9,8 @@ cover: /images/covers/angry-letters.jpg
 github: https://github.com/thiagohersan/AngryLetters
 vimeo: https://vimeo.com/98120021
 ---
+![](/images/projects/angry-letters/xIMG_0491.jpg)
+
 Just because they shouldn't be read, doesn't mean they can't be written!
 
 A simple ritual for sharing angry messages with the world:
@@ -20,8 +22,6 @@ A simple ritual for sharing angry messages with the world:
 5. Cut them into individual letters.
 6. Add return address (optional).
 7. Send, burn, burry or eat the letters.
-
-![](/images/projects/angry-letters/xIMG_0491.jpg)
 
 ![](/images/projects/angry-letters/xIMG_0493.jpg)
 

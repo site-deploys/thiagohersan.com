@@ -12,9 +12,9 @@ pics: https://www.flickr.com/photos/tuukul/sets/72157646159118191
 www: http://www.memememememememe.me/
 collab: https://www.radames.in/
 ---
-Ongoing project with Radamés Ajna, where we are investigating what happens when the tools we use to communicate start to have more fun than we do, while communicating.
-
 ![](/images/projects/memememe/memememe2.jpg)
+
+Ongoing project with Radamés Ajna, where we are investigating what happens when the tools we use to communicate start to have more fun than we do, while communicating.
 
 This project was awarded a [VIDA 15.0](https://vida.fundaciontelefonica.com/proyectos/vida-15/) production incentive award and residency to research different methods of interaction, recognition and communication between objects.
 

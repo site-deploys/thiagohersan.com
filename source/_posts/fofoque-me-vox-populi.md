@@ -11,11 +11,11 @@ vimeo: https://vimeo.com/98495273
 www: http://www.sescsp.org.br/multitude/
 collab: https://www.radames.in/
 ---
+![](/images/projects/fofoque-me-vox-populi/dddd3.jpg)
+
 It is not hard to imagine a future where public spaces have been completely relegated to the virtual realm. A future where any kind of physical congregation is seen as a “violent provocation”, and where the technologies that were once used to promote participatory action, remain as the only platform for public discourse.
 
 Can we consider public these virtual spaces run by private entities? What technological, social and conceptual tools are needed to potentialize and legitimize new forms of occupation and appropriation of physical and virtual spaces?
-
-![](/images/projects/fofoque-me-vox-populi/dddd3.jpg)
 
 Fofoque-me: Vox Populi is an open communication system that exist in this near future, and promotes the creation of a temporary public space from the recontextualization of messages sent by participants.
 

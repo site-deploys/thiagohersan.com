@@ -7,9 +7,9 @@ url: maximization-of-printability-by-extreme-regularity/
 date: 2006-12-14T21:29:24
 cover: /images/covers/maximization-of.jpg
 ---
-This was my master's degree work on the effects of design regularity on performance and manufacturability of integrated circuits.
-
 ![](/images/projects/maximization-of-printability-by-extreme-regularity/22or25.jpg)
+
+This was my master's degree work on the effects of design regularity on performance and manufacturability of integrated circuits.
 
 This meant not only physical regularity of the shapes being printed on silicon, but also of the logic cells used to build the circuits.
 

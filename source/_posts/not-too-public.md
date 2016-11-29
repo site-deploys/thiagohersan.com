@@ -9,6 +9,8 @@ cover: /images/covers/not-too-public.jpg
 github: https://github.com/thiagohersan/NotTooPublic
 collab: http://www.lo13.com/
 ---
+![](/images/projects/not-too-public/BlingMockup00.jpg)
+
 The internet is great. And it has the potential to democratize access to all kinds of information and types of communication.
 
 But, the rise in popularity of certain web-based services and apps, like social-networking and picture-sharing sites, has also started a trend towards the democratization of content.
@@ -16,8 +18,6 @@ But, the rise in popularity of certain web-based services and apps, like social-
 All the messages look the same. All the pictures look vintage. Our thoughts must fit in a box, and we don’t even have to use full sentences if there’s already a #tag that we can reuse to express a sentiment. Sharing something with your 10 closest friends looks the same as sharing something with all your friends.
 
 From a design perspective, Not Too Public is an exploration of possibilities for a more affective communication.
-
-![](/images/projects/not-too-public/BlingMockup00.jpg)
 
 Beyond that, it’s an investigation into the motivations and reasonings behind our desire for public communication. Obviously, posting cat pictures on the internet is something that makes us feel good, but what other types of communication share this underlying socio-psychological need? If what we’re looking for in these online interactions is a little bit of validation, compassion, understanding, or just a soapbox to brag, wouldn’t it be better to actually do it in public?
 
