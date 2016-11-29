@@ -11,11 +11,11 @@ vimeo: https://vimeo.com/45568573
 www: http://gutorequena.com.br/site/work/objects/n-ize-chair/11/
 collab: http://gutorequena.com.br/
 ---
-These chairs were the second project in a series of collaborations with [Estudio Guto Requena](http://www.gutorequena.com.br/) in the beginning of 2012, that combined sound, design and digital fabrication processes to create furniture and decorative objects. 
-
 <div class="video-wrapper video-wrapper-16x9">
     <iframe src="http://player.vimeo.com/video/45568573" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
+
+These chairs were the second project in a series of collaborations with [Estudio Guto Requena](http://www.gutorequena.com.br/) in the beginning of 2012, that combined sound, design and digital fabrication processes to create furniture and decorative objects. 
 
 The original chairs by Lina Bo Bardi, Marcelo Ferraz, Marcelo Suzuki, Sério Rodrigues and Carlos Motta were digitally modeled in 3D software to get a faithful reproduction of their physical model. These models then became the starting point for an unique design process that used sounds collected from 3 distinct neighborhoods in São Paulo to deform the original chair designs.
 

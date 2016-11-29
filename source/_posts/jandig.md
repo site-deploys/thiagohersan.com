@@ -11,13 +11,13 @@ pics: http://www.flickr.com/photos/58001963@N04/sets/72157628233698197/
 www: http://memelab.com.br/jandig/
 collab: http://memelab.com.br/
 ---
+![](/images/projects/jandig/Jandig_street.jpg)
+
 This was an interesting collaboration with VJ Pixel and other people at the [memeLab](http://memelab.com.br/).
 
 Jandig is a platform/installation for creating temporary exhibitions of digital or digitalized works or messages. Through the use of [augmented reality technology](http://code.google.com/p/andar/), users can use their own phones to view these virtual works distributed throughout a physical environment.
 
 For our very first installation, we made small black and white paper markers and glued them throughout the Santa Cecilia neighborhood of downtown São Paulo.
-
-![](/images/projects/jandig/Jandig_street.jpg)
 
 When viewed through the software, these markers changed into photographs or drawings that were submitted to the Jandig open-source digital work database.
 

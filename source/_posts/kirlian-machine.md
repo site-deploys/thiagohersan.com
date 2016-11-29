@@ -7,13 +7,13 @@ url: kirlian-machine/
 date: 2012-07-17T20:56:43
 cover: /images/covers/kirlian-machine.jpg
 ---
+![](/images/projects/kirlian-machine/kirlian_draw.jpg)
+
 While I was the technical coordinator at Marginalia+Lab, I got to work with artists/photographers Livia Chagas and Wemersom Machado on their project, *Auras*.
 
 Conceptually, the project makes reference to Walter Benjamin's use of the word "aura" to classify authenticity, and to the more mystical and pedestrian uses of the word "aura". Practically, we were trying to take picture of people's energy fields and other invisible phenomena.
 
 So we started by trying to replicate a process called electrophotography using a [Kirlian machine](http://en.wikipedia.org/wiki/Kirlian_photography). This is a way to capture images by ionizing moisture particles in the air around an object. Or... by exciting their aura.
-
-![](/images/projects/kirlian-machine/kirlian_draw.jpg)
 
 One can read more about this process on wikipedia, but, basically, we needed to build a high-voltage, high-frequency, low-amperage signal generator that could be used to ionize stuff and glow.
 

@@ -9,9 +9,9 @@ cover: /images/covers/os-que-chegam-a.jpg
 github: https://github.com/thiagohersan/osQueChegamComANoite
 collab: https://vimeo.com/cimarcelle/
 ---
-In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.com/cimarcelle) and Pedro Veneroso with their project: *Os Que Chegam Com a Noite*, for Belo Horizonte’s version of the [Nuit Blanche](http://en.wikipedia.org/wiki/Nuit_Blanche).
-
 ![](/images/projects/os-que-chegam-com-a-noite/cinthia_pedro_01.jpg)
+
+In September of 2012, I helped my good friends [Cinthia Marcelle](https://vimeo.com/cimarcelle) and Pedro Veneroso with their project: *Os Que Chegam Com a Noite*, for Belo Horizonte’s version of the [Nuit Blanche](http://en.wikipedia.org/wiki/Nuit_Blanche).
 
 The project was an installation/intervention that modified the behavior of the lights in a park in order to create unique spacial/temporal environments during the event’s duration. It also provided for an interesting visual experience because it switched the lights on and off intermittently in specific patterns.
 

@@ -11,6 +11,8 @@ vimeo: https://vimeo.com/54222659/
 www: http://www.onascimento.com/#/e-ans/
 collab: http://www.onascimento.com/
 ---
+![](/images/projects/e-ansa/eansa_sensor.jpg)
+
 This was a collaboration with [Ricardo O'Nascimento](http://www.onascimento.com/), while I was working as a technical adviser for the artistic residents at the São Paulo Museum of Image and Sound.
 
 The project involved making a dress that would produce visual and tactile responses to the presence of cell phone signals. There's more info at Ricardo's [page](http://www.onascimento.com/#/e-ans/).
@@ -18,8 +20,6 @@ The project involved making a dress that would produce visual and tactile respon
 ![](/images/projects/e-ansa/eansa1.jpg)
 
 For this project, I modified a simple RF detector antenna circuit to respond to the right signal frequencies, and used 4 of these sensor circuits to detect the presence and rough location of active cell phone signals around the dress.
-
-![](/images/projects/e-ansa/eansa_sensor.jpg)
 
 An Arduino was used to read the sensor values and program a small external memory bank that controlled 25 columns of small computer fans independently. We could have programmed wave patterns around the dress, but ended up using simpler patterns that were more visually apparent.
 

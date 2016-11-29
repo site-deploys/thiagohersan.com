@@ -11,11 +11,11 @@ vimeo: https://vimeo.com/43560352/
 www: https://jardimeletronico.wordpress.com/
 collab: http://cinthia.mobi/
 ---
+![](/images/projects/um-jardim-para-epicuro/jardim_abacaxi.jpg)
+
 In December of 2010 I participated in "art summer camp"... er... [Interactivos?10](http://medialab-prado.es/interactivos). The Medialab-Prado "research and production platform for the creative and educational uses of technology". This was their satellite event that took place in Belo Horizonte.
 
 Besides meeting a bunch of cool people, and helping out in a variety of projects, I got to collaborate with [Cinthia Mendonça](http://cinthia.mobi/) on her "hybrid garden".
-
-![](/images/projects/um-jardim-para-epicuro/jardim_abacaxi.jpg)
 
 Cinthia's [blog](http://jardimeletronico.wordpress.com/) for the project has more details, pictures and videos, but, put simply, we built a small garden ecosystem that, in addition to small tress, plants and shrubs, also had sound installations, camera feeds and a projection.
 

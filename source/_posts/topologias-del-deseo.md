@@ -12,13 +12,13 @@ pics: https://www.flickr.com/photos/microhom/albums/72157670706506893
 www: http://interspecifics.cc/topologia/
 collab: http://www.interspecifics.cc/
 ---
+![](/images/projects/topologias-del-deseo/topologia04.jpg)
+
 Project done as part of the [Interspecifics](http://www.interspecifics.cc/) collective.
 
 What role does history play in conditioning our social desires?
 
 *Topologías del Deseo* is a series of transductions of energy that serve as signifiers for a symbolic act that seeks to establish a state of exception in which these questions are shared and reflected collectively.
-
-![](/images/projects/topologias-del-deseo/topologia04.jpg)
 
 ![](/images/projects/topologias-del-deseo/topologia01.jpg)
 

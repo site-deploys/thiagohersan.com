@@ -10,11 +10,11 @@ github: https://github.com/thiagohersan/un_tit_ledArduino
 www: http://lizzydevita.com/un_tit_led
 collab: http://lizzydevita.com/
 ---
+![](/images/projects/un-tit-led/UNTITLED.jpg)
+
 In May of 2011 I helped my friend [Lizzy DeVita](http://lizzydevita.com/) with one of her pieces at the Affordable Art Fair in New York.
 
 UN_TIT_LED is a 9&#8242; x 14&#8242; installation made up of a large image print, and a series of push lights organized to spell out a phrase in braille.
-
-![](/images/projects/un-tit-led/UNTITLED.jpg)
 
 From her site: "Each light was pre-programmed to react differently when touched — some would respond immediately, while others had a delayed response. Some would fade on and off on their own, while others when touched would turn on a different light down the line."
 
