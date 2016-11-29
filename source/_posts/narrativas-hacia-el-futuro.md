@@ -15,7 +15,7 @@ In November of 2015 we were part of the [Territory of the Imagination](http://ru
 
 ![](/images/projects/narrativas-futuro/scan00.jpg)
 
-During workshops held in El Paso and Ciudad Juárez, we worked with different groups of people and talked about what kind of technologies played a role in their daily lives. We used the vague notion of "technology" to trace simple past-present-future narratives about different topics pertinent to the region, like, the militarization of the border, factory life-cycles, agriculture, water and other natural resources.
+During workshops held in El Paso and Ciudad Juárez, we worked with different groups of people and talked about what role technology played in their daily lives. We used the vague notion of "technology" to trace simple past-present-future narratives about different topics pertinent to the region, like, the militarization of the border, factory life-cycles, agriculture, water and other natural resources.
 
 ![](/images/projects/narrativas-futuro/scan02.jpg)
 
@@ -31,14 +31,10 @@ This communication system with the future uses a laser cutter to engrave some of
 
 ![](/images/projects/narrativas-futuro/juarez03.jpg)
 
-![](/images/projects/narrativas-futuro/juarez05.jpg)
-
-![](/images/projects/narrativas-futuro/juarez00.jpg)
+![](/images/projects/narrativas-futuro/juarez0500.jpg)
 
 Once engraved, these stones are returned to construction sites, gentrifying neighborhoods, abandoned factories, unfinished public projects, and other contested zones on both sides of the border.
 
 ![](/images/projects/narrativas-futuro/juarez07.jpg)
 
-![](/images/projects/narrativas-futuro/juarez01.jpg)
-
-![](/images/projects/narrativas-futuro/juarez06.jpg)
+![](/images/projects/narrativas-futuro/juarez0106.jpg)
