@@ -30,13 +30,13 @@ We began developing the project in México, where we first showed a version of o
 
 ![](/images/projects/laser-chat-fronterizo/exteresa03.jpg)
 
-Then, in December of 2014 we further developed the laser chat system during the [LABiC-MX](http://www.ciudadania20.org/labicmx/) event, where we implemented full duplex transmission and reception between two stations.
+Then, in December of 2014 we further developed the laser modem during the [LABiC-MX](http://www.ciudadania20.org/labicmx/) event, where we implemented full duplex transmission and reception between two stations.
 
 ![](/images/projects/laser-chat-fronterizo/labic01.jpg)
 
 ![](/images/projects/laser-chat-fronterizo/labic03.jpg)
 
-In November of 2015 we had a chance to show a final version of the system in Juárez/El Paso, as part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68) exhibition at the Rubin Center for the Arts. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of laser-connected nodes on both sides of the border. but the groups we were working with in the region didn't see this kind of communication as a necessity.
+In November of 2015 we showed a final version of the system in Juárez/El Paso, as part of the [Territory of the Imagination](http://rubin.utep.edu/index.php/past1/68) exhibition at the Rubin Center for the Arts. Before and during the exhibition, we worked with local groups and collectives to try to create an extended network of laser-connected nodes on both sides of the border. but the groups we were working with in the region didn't see this kind of communication as a necessity.
 
 <div class="video-wrapper video-wrapper-16x9">
     <iframe src="//player.vimeo.com/video/165527282?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
