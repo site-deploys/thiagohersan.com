@@ -41,16 +41,16 @@ em {
 s {
   text-decoration: line-through; }
 
-a {
+a, .email-icon {
   font: bold 1.1rem "Merriweather Sans", "Arial";
   text-decoration: none;
   color: #1a1a1a;
   cursor: pointer;
   text-transform: uppercase;
   transition: color 0.25s linear; }
-  a:visited {
+  a:visited, .email-icon:visited {
     color: #1a1a1a; }
-  a:hover {
+  a:hover, .email-icon:hover {
     color: #8282ff; }
 
 #menu a {
@@ -67,11 +67,8 @@ a {
 #list .content-title {
   text-transform: uppercase; }
 
-.social-icon a {
-  font-size: 2.2rem; }
-  @media only screen and (min-width: 610px) {
-    .social-icon a {
-      font-size: 3rem; } }
+.social-icon a, .social-icon .email-icon {
+  font-size: 3rem; }
 
 body {
   background: #f4f4f4;
@@ -198,6 +195,14 @@ body {
         float: right;
         margin-left: 25px;
         margin-bottom: 1em; } }
+  #project #emailCheck {
+    display: none; }
+  #project #emailCheck + #email-img {
+    margin-top: -40px;
+    transition: opacity 0.25s linear;
+    opacity: 0; }
+  #project #emailCheck:checked + #email-img {
+    opacity: 1; }
 
 #social-footer {
   display: -webkit-flex;
@@ -205,9 +210,6 @@ body {
   -webkit-justify-content: center;
   justify-content: center;
   margin: 40px 0; }
-  @media only screen and (min-width: 610px) {
-    #social-footer {
-      margin: 40px 0; } }
   #social-footer .social-icon {
     padding: 0 12.5px; }
     @media only screen and (min-width: 610px) {
