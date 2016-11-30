@@ -172,6 +172,18 @@ body {
       margin-bottom: 1em;
     }
   }
+
+  #emailCheck {
+    display: none;
+  }
+  #emailCheck + #email-img {
+    margin-top: -$VERTICAL-SECTION-SPACING;
+    transition: opacity $TRANSITION-PERIOD linear;
+    opacity: 0;
+  }
+  #emailCheck:checked + #email-img {
+    opacity: 1;
+  }
 }
 
 #social-footer {
@@ -181,9 +193,6 @@ body {
   justify-content: center;
 
   margin: $VERTICAL-SECTION-SPACING 0;
-  @include media-query(TWO) {
-    margin: $VERTICAL-SECTION-SPACING 0;
-  }
 
   .social-icon {
     padding: 0 $HORIZONTAL-ITEM-SPACING/2;

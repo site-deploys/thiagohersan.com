@@ -1,4 +1,4 @@
-if page.github || page.vimeo || page.pics || page.astros || page.www || page.collab
+if page.github || page.vimeo || page.pics || page.astros || page.www || page.collab || page.email
   #social-footer.social-footer-container
     if page.github
       .social-icon
@@ -18,3 +18,8 @@ if page.github || page.vimeo || page.pics || page.astros || page.www || page.col
     if page.collab
       .social-icon
         a(href="#{page.collab}" class="fa fa-heart" target="_blank")
+    if page.email
+      label#emailLabel.social-icon(for="emailCheck")
+        span(class="fa fa-envelope email-icon")
+  input#emailCheck(type="checkbox")
+  img#email-img(src="/images/contact/contact_email_wb.png")

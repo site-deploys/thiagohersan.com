@@ -49,7 +49,7 @@ $detail-size: 1.1rem;
     text-decoration:line-through;
   }
 
-  a {
+  a, .email-icon {
     font: bold $detail-size $family-sans;
     text-decoration: none;
     color: $LINK-COLOR;
@@ -89,10 +89,7 @@ $detail-size: 1.1rem;
     text-transform: uppercase;
   }
 
-  .social-icon a {
-    font-size: 2.2rem;
-    @include media-query(TWO){
-      font-size: 3rem;
-    }
+  .social-icon a, .social-icon .email-icon {
+    font-size: 3rem;
   }
 }
