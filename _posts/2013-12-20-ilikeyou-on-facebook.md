@@ -1,6 +1,6 @@
 ---
 layout: project
-category: project
+category: draft
 title: iLikeYou (on facebook)
 description: online app
 url: ilikeyou-on-facebook/
