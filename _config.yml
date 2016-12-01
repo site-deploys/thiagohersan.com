@@ -1,0 +1,29 @@
+# Site
+title: Thiago Hersan
+description: Thiago Hersan
+author: Thiago Hersan
+
+# URL
+url: http://thiagohersan.com
+baseurl: /
+permalink: project/:title/
+
+# Build settings
+markdown: kramdown
+port: 4444
+
+# Jekyll
+defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      cover: /images/covers/tgh-300x90.jpg
+
+# Data
+social:
+  facebook_url: "https://www.facebook.com/thiago.hersan"
+  twitter_url: "https://www.twitter.com/thiagohersan"
+  twitter_user: "@thiagohersan"
+  vimeo_url: "https://vimeo.com/thiagohersan"
+  github_url: "https://github.com/thiagohersan"
