@@ -6,12 +6,12 @@
 
 <meta property="og:title" content="{{page.title}}">
 <meta property="og:type" content="article">
-<meta property="og:url" content="{{page.path}}"> <!-- or 'site.url'+'page.url' -->
+<meta property="og:url" content="{{site.url}}{{page.url}}">
 <meta property="og:description" content="{{page.title}}: {{page.description}}">
 <meta property="og:site_name" content="{{site.title}}">
 <meta property="article:publisher" content="{{site.social.facebook_url}}">
 
 {% assign coverImagePath = site.url | append: page.cover %}
 
-<meta name="twitter:image" content="{{ coverImagePath }}">
-<meta property="og:image" content="{{ coverImagePath }}">
+<meta name="twitter:image" content="{{coverImagePath}}">
+<meta property="og:image" content="{{coverImagePath}}">
