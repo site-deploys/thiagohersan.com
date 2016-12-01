@@ -1,0 +1,13 @@
+{% include menu.html %}
+<div id="main-div">
+  <div id="project">
+    <!-- avoid showing title on home page -->
+    {% unless page.email %}
+      <div class="content-title">{{ page.title }}</div>
+    {% endunless %}
+    <content>
+      {{ content }}
+    </content>
+    {% include social_footer.html %}
+  </div>
+</div>

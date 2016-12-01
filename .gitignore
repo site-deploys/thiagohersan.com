@@ -5,7 +5,4 @@ db.json
 node_modules/
 public/
 .deploy*/
-index.md
-!source/index.md
-!source/contact/index.md
-_config.yml
+_site/

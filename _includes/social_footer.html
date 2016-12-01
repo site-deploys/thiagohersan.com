@@ -1,0 +1,41 @@
+{% if page.github or page.vimeo or page.pics or page.astros or page.www or page.collab or page.email %}
+  <div id="social-footer" class="social-footer-container">
+    {% if page.github %}
+      <div class="social-icon">
+        <a href="{{ page.github }}" class="fa fa-github" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.vimeo %}
+      <div class="social-icon">
+        <a href="{{ page.vimeo }}" class="fa fa-vimeo" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.pics %}
+      <div class="social-icon">
+        <a href="{{ page.pics }}" class="fa fa-camera" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.astros %}
+      <div class="social-icon">
+        <a href="{{ page.astros }}" class="fo-asterisk" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.www %}
+      <div class="social-icon">
+        <a href="{{ page.www }}" class="fa fa-anchor" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.collab %}
+      <div class="social-icon">
+        <a href="{{ page.collab }}" class="fa fa-heart" target="_blank"></a>
+      </div>
+    {% endif %}
+    {% if page.email %}
+      <label id="emailLabel" class="social-icon" for="emailCheck">
+        <span class="fa fa-envelope email-icon"></span>
+      </label>
+    {% endif %}
+  </div>
+  <input id="emailCheck" type="checkbox">
+  <img id="email-img" src="/images/contact/contact_email_wb.png">
+{% endif %}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include menu.html %}
+    <div id="main-div">
+      <div id="list">
+        <div class="content-title">{{ page.description }}</div>
+        <div class="project-list-container">
+          {% for post in site.posts %}
+            {% assign pagedescription = page.description | downcase %}
+            {% if pagedescription contains post.category %}
+              <div class="project-list-item">
+                <a href="{{ post.url }}">
+                  <img src="{{ post.cover }}" alt="{{ post.title }}" title="{{ post.title }}">
+                </a>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </body>
+  <script defer type="text/javascript" src="/js/lol.js"></script>
+</html>
