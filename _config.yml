@@ -18,7 +18,7 @@ defaults:
     scope:
       path: ""
     values:
-      cover: /images/covers/tgh-300x90.jpg
+      cover: /images/covers/tgh.jpg
 
 # Data
 social:
