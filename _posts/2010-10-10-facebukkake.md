@@ -3,9 +3,7 @@ layout: project
 category: project
 title: Facebukkake
 description: online performance
-url: facebukkake/
 date: 2010-10-10T23:13:43
-cover: /images/covers/facebukkake.jpg
 ---
 ![](/images/projects/facebukkake/tgh02.jpg)
 

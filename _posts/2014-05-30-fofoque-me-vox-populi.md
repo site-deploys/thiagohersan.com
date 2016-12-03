@@ -3,9 +3,7 @@ layout: project
 category: project
 title: 'Fofoque-me: Vox Populi'
 description: communication system installation
-url: fofoque-me-vox-populi/
 date: 2014-05-30T01:54:40
-cover: /images/covers/fofoque-me-vox.jpg
 github: https://github.com/thiagohersan/FofoquemeVoxPopuli
 vimeo: https://vimeo.com/98495273
 www: http://www.sescsp.org.br/multitude/

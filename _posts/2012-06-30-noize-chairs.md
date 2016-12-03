@@ -3,9 +3,7 @@ layout: project
 category: collaboration
 title: Nóize Chairs
 description: design object
-url: noize-chairs/
 date: 2012-06-30T03:10:53
-cover: /images/covers/noize-chairs.jpg
 github: https://github.com/thiagohersan/NoizeChairsProcessing/
 vimeo: https://vimeo.com/45568573
 www: http://gutorequena.com.br/site/work/objects/n-ize-chair/11/

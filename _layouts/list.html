@@ -15,7 +15,9 @@
             {% if pagedescription contains post.category %}
               <div class="project-list-item">
                 <a href="{{ post.url }}">
-                  <img src="{{ post.cover }}" alt="{{ post.title }}" title="{{ post.title }}">
+                  {% assign fname = post.path | split: "/" | last | slice: 11, 64 %}
+                  {% assign postCover = "/images/covers/" | append: fname | replace: ".md",".jpg" %}
+                  <img src="{{ postCover }}" alt="{{ post.title }}" title="{{ post.title }}">
                 </a>
               </div>
             {% endif %}

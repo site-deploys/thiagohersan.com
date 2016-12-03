@@ -3,9 +3,7 @@ layout: project
 category: project
 title: "Imaginario Inverso: Laser Chat Fronterizo"
 description: interactive public installation and transborder intervention
-url: laser-chat-fronterizo/
 date: 2015-11-01T01:38:03
-cover: /images/covers/laser-chat.jpg
 github: https://github.com/astrovandalistas/TerritoryOfTheImaginario
 vimeo: https://vimeo.com/165527282
 astros: http://astrovandalistas.cc/inverso/

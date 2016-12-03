@@ -3,9 +3,7 @@ layout: project
 category: project
 title: Cosmic Debris
 description: performance/ritual
-url: cosmic-debris/
 date: 2012-09-07T13:29:52
-cover: /images/covers/cosmic-debris.jpg
 github: https://github.com/thiagohersan/cosmicDebrisOF
 vimeo: https://vimeo.com/46084655
 ---

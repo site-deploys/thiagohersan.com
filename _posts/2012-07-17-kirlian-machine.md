@@ -3,9 +3,7 @@ layout: project
 category: collaboration
 title: Kirlian Machine
 description: mystic apparatus
-url: kirlian-machine/
 date: 2012-07-17T20:56:43
-cover: /images/covers/kirlian-machine.jpg
 ---
 ![](/images/projects/kirlian-machine/kirlian_draw.jpg)
 

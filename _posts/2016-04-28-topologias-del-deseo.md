@@ -3,9 +3,7 @@ layout: project
 category: collaboration
 title: Topologías del Deseo
 description: tecnoxamanic ritual and social reprogramming
-url: topologias-del-deseo/
 date: 2016-04-28T22:11:57
-cover: /images/covers/topologia.jpg
 github: https://github.com/interspecifics/ProyectoLiquido
 vimeo: https://vimeo.com/178385468
 pics: https://www.flickr.com/photos/microhom/albums/72157670706506893

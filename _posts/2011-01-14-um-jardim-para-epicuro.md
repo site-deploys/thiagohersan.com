@@ -3,9 +3,7 @@ layout: project
 category: collaboration
 title: Um jardim para Epicuro
 description: collaborative garden
-url: um-jardim-para-epicuro/
 date: 2011-01-14T23:35:16
-cover: /images/covers/um-jardim-para.jpg
 github: https://github.com/thiagohersan/JardimParaEpicuroProcessing/
 vimeo: https://vimeo.com/43560352/
 www: https://jardimeletronico.wordpress.com/

@@ -2,7 +2,7 @@
 layout: project
 title: 'Thiago Hersan'
 description: 'projects and stuff'
-date: 2016-01-01T00:00:00
+cover: /images/covers/tgh.jpg
 github: https://github.com/thiagohersan
 vimeo: https://vimeo.com/thiagohersan
 astros: http://www.astrovandalistas.cc/

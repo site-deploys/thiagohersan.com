@@ -3,9 +3,7 @@ layout: project
 category: draft
 title: 'memememe#selfie'
 description: installation
-url: memememe-selfie/
 date: 2014-12-12T10:27:09
-cover: /images/covers/memememe-selfie.jpg
 github: https://github.com/thiagohersan/memememe
 vimeo: https://vimeo.com/165396798
 pics: https://www.flickr.com/photos/tuukul/sets/72157646159118191

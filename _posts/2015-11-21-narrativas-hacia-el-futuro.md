@@ -3,9 +3,7 @@ layout: project
 category: project
 title: "Imaginario Inverso: Narrativas Hacia el Futuro"
 description: interactive public installation and transborder land intervention
-url: narrativas-hacia-el-futuro/
 date: 2015-11-21T01:38:03
-cover: /images/covers/narrativas-futuro.jpg
 github: https://github.com/astrovandalistas/word_encoder
 astros: http://astrovandalistas.cc/inverso/
 ---

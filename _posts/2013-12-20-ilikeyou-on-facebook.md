@@ -3,9 +3,7 @@ layout: project
 category: project
 title: iLikeYou (on facebook)
 description: online app
-url: ilikeyou-on-facebook/
 date: 2013-12-20T03:32:06
-cover: /images/covers/ilikeyou-on.jpg
 github: https://github.com/thiagohersan/iLikeYou
 vimeo: https://vimeo.com/83561856
 www: http://app.thiagohersan.com/iLikeYou/

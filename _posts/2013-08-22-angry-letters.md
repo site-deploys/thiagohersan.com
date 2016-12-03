@@ -3,9 +3,7 @@ layout: project
 category: project
 title: Angry Letters
 description: performance/ritual
-url: angry-letters/
 date: 2013-08-22T13:22:25
-cover: /images/covers/angry-letters.jpg
 github: https://github.com/thiagohersan/AngryLetters
 vimeo: https://vimeo.com/98120021
 ---

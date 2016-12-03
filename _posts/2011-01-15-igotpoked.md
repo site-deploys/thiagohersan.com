@@ -3,9 +3,7 @@ layout: project
 category: project
 title: iGotPoked
 description: performance/collage
-url: igotpoked/
 date: 2011-01-15T02:15:14
-cover: /images/covers/igotpoked.jpg
 ---
 ![](/images/projects/igotpoked/iGotPoked.png)
 
