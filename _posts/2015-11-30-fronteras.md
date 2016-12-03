@@ -3,7 +3,7 @@ layout: project
 category: project
 title: "Imaginario Inverso: Fronteras"
 description: photography and installation
-date: 2016-07-01T01:38:03
+date: 2015-11-30T01:38:03
 github: https://github.com/thiagohersan/Fronteras
 astros: http://astrovandalistas.cc/inverso/
 ---
