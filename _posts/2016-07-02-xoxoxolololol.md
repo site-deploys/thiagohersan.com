@@ -63,6 +63,9 @@ The exhibition was made up of a couple of video and photography pieces, some of 
 ![](/images/projects/xoxoxolololol/FATA04.jpg)
 
 ![](/images/projects/xoxoxolololol/FATA06.jpg)
+
+![](/images/projects/xoxoxolololol/FATA07.jpg)
+
 <div class="video-wrapper video-wrapper-16x9">
   <iframe src="//player.vimeo.com/video/171869957?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 </div>
