@@ -5,7 +5,7 @@ title: "OLF's R&T + Ob_ & Ob_"
 description: reading group and exhibition
 date: 2015-12-12T01:38:03
 vimeo: https://vimeo.com/165095890
-pics: http://olf.space/ob_ject-and-ob_serve/#ngg-image-0
+pics: http://olf.space/post/ob-ject-and-ob-serve/#swipebox-gallery
 www: http://olf.space/
 collab: http://asmallview.co.uk/
 ---
