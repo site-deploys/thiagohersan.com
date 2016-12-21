@@ -39,7 +39,7 @@ Some of the *thingings* we've done: playing cat's craddle, building machines tha
 ![](/images/projects/olf-rt-ob-ob/rt0501.jpg)
 
 ## Ob_ject and Ob_serve
-Ob-ject and Ob_serve was an exhibition we put together at [A Small View](http://asmallview.co.uk/) in Liverpool in February of 2016. Alex presented work that looks at the relationship between breakdown in machines and people. Radamés, Edgar and Thiago presented ongoing work that deals with the hidden lives of our communication technologies. Sam presented a collection of text-based prints and ephemera drawn from archival research, conversations with former Liverpool observatory employees, and his project notebooks.
+Ob_ject and Ob_serve was an exhibition we put together at [A Small View](http://asmallview.co.uk/) in Liverpool in February of 2016. Alex presented work that looks at the relationship between breakdown in machines and people. Radamés, Edgar and Thiago presented ongoing work that deals with the hidden lives of our communication technologies. Sam presented a collection of text-based prints and ephemera drawn from archival research, conversations with former Liverpool observatory employees, and his project notebooks.
 
 ![](/images/projects/olf-rt-ob-ob/obob00.jpg)
 
