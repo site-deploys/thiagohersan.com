@@ -5,6 +5,8 @@ title: "Imaginario Inverso: Narrativas Hacia el Futuro"
 description: interactive public installation and transborder land intervention
 date: 2015-11-21T01:38:03
 github: https://github.com/astrovandalistas/word_encoder
+pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
+www: http://rubin.utep.edu/index.php/past1/68
 astros: http://astrovandalistas.cc/inverso/
 ---
 ![](/images/projects/narrativas-futuro/laser01.jpg)

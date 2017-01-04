@@ -5,6 +5,8 @@ title: "Imaginario Inverso: Laser Chat Fronterizo"
 description: interactive public installation and transborder intervention
 date: 2015-11-01T01:38:03
 github: https://github.com/astrovandalistas/TerritoryOfTheImaginario
+pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
+www: http://rubin.utep.edu/index.php/past1/68
 vimeo: https://vimeo.com/165527282
 astros: http://astrovandalistas.cc/inverso/
 ---
