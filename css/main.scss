@@ -8,15 +8,21 @@
 
 body {
   background: $BACKGROUND-COLOR;
-  margin: 8px 0;
+  margin: 0 0 8px;
+}
+
+#menu-fixed-wrapper {
+  display: block;
+  position: fixed;
+  box-sizing: border-box;
+  width: 100%;
+  right: 0;
+  z-index: 100;
+  background-color: $BACKGROUND-COLOR;
 }
 
 #menu {
-  margin: 0 0 $VERTICAL-SECTION-SPACING;
-  @include media-query(TWO) {
-    margin: $VERTICAL-SECTION-SPACING 0;
-  }
-
+  margin: 0;
   background: $MENU-COLOR;
 
   .menu-container {
@@ -69,6 +75,8 @@ body {
   justify-content: space-around;
   -webkit-align-content: center;
   align-content: center;
+
+  padding-top: $MENU-HEIGHT;
 }
 
 #list {
