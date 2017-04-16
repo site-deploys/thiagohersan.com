@@ -15,7 +15,7 @@ Anyone who understands big data will agree that:
 </div>
 
 <div class="inline-image-container" markdown="1">
-  iLikeYou (on facebook) is a [web app](http://app.thiagohersan.com/iLikeYou/) designed to help us quantify our feelings towards each other. It  goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
+  iLikeYou (on facebook) is a [web app](http://app.thiagohersan.com/iLikeYou/){:target="_blank"} designed to help us quantify our feelings towards each other. It  goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
 </div>
 
 <div class="inline-image-container" markdown="1">
