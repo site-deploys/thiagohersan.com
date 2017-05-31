@@ -11,13 +11,18 @@
     <div id="main-div">
       <div id="list">
         <div class="content-title">{{ page.description }}</div>
-        <div class="filter-container">
-          {% for filter in page.filters %}
-            <div class="selector-button {{ filter }}">
-              <span>{{ filter | replace: 'filter-', '' }}</span>
+        {% if page.filters %}
+          <div class="filter-container">
+            <div class="selector-button filter-all">
+              <span>all</span>
             </div>
-          {% endfor %}
-        </div>
+            {% for filter in page.filters %}
+              <div class="selector-button {{ filter }}">
+                | <span>{{ filter | replace: 'filter-', '' }}</span>
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
         <div class="project-list-container">
           {% for post in site.posts %}
             {% assign pagedescription = page.description | downcase %}
