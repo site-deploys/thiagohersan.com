@@ -14,11 +14,11 @@
         {% if page.filters %}
           <div class="filter-container">
             <div class="selector-button filter-all">
-              <span>all</span>
+              <span class="filter-button-text filter-active">all</span>
             </div>
             {% for filter in page.filters %}
               <div class="selector-button {{ filter }}">
-                | <span>{{ filter | replace: 'filter-', '' }}</span>
+                | <span class="filter-button-text">{{ filter | replace: 'filter-', '' }}</span>
               </div>
             {% endfor %}
           </div>

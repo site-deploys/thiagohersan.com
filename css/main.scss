@@ -83,6 +83,46 @@ body {
     padding: 0 $LIST-IMAGE-SPACING;
 }
 
+#list .filter-container {
+  display: none;
+  @include media-query(TWO) {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+
+  margin-top: $LIST-IMAGE-SPACING/2;
+  margin-bottom: $LIST-IMAGE-SPACING*2;
+
+  .filter-button-text {
+    transition: opacity $TRANSITION-PERIOD linear;
+    opacity: 1;
+  }
+
+  .filter-active {
+    border-bottom: 4px solid #000;
+  }
+
+  .selector-button {
+    padding: 0 5px;
+    cursor: pointer;
+  }
+
+  .selector-button:hover {
+    .filter-button-text {
+      opacity: 0.5;
+    }
+
+    .filter-active {
+      opacity: 1;
+    }
+  }
+}
+
 #list .project-list-container {
   display: -webkit-flex;
   display: flex;
