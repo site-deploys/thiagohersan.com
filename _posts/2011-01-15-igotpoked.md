@@ -3,6 +3,7 @@ layout: project
 category: project
 title: iGotPoked
 description: performance/collage
+filters: 'filter-analog filter-internet'
 date: 2011-01-15T02:15:14
 ---
 ![](/images/projects/igotpoked/iGotPoked.png)

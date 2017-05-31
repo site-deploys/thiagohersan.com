@@ -3,6 +3,7 @@ layout: project
 category: project
 title: "Imaginario Inverso: Laser Chat Fronterizo"
 description: interactive public installation and transborder intervention
+filters: 'filter-astrovandalistas'
 date: 2015-11-01T01:38:03
 github: https://github.com/astrovandalistas/TerritoryOfTheImaginario
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199

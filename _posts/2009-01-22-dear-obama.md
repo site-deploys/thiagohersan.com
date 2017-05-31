@@ -3,6 +3,7 @@ layout: project
 category: project
 title: 'Dear Obama, ...'
 description: performance/protest
+filters: 'filter-analog'
 date: 2009-01-22T15:24:04
 pics: https://picasaweb.google.com/114066477118649763567/DearObama?authkey=Gv1sRgCOv-s7ut4tbnaw
 collab: https://karhoff.wordpress.com/

@@ -3,6 +3,7 @@ layout: project
 category: project
 title: iLikeYou (on facebook)
 description: online app
+filters: 'filter-internet'
 date: 2013-12-20T03:32:06
 github: https://github.com/thiagohersan/iLikeYou
 vimeo: https://vimeo.com/83561856

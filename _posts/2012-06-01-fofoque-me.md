@@ -3,6 +3,7 @@ layout: project
 category: project
 title: Fofoque-me
 description: public installation and communication system
+filters: 'filter-public-spaces filter-megaphone filter-cellphone'
 date: 2012-06-01T13:18:56
 github: https://github.com/thiagohersan/Fofoqueme
 vimeo: https://vimeo.com/48852839

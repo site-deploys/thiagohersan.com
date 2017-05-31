@@ -3,6 +3,7 @@ layout: project
 category: project
 title: "OLF's R&T + Ob_ & Ob_"
 description: reading group and exhibition
+filters: 'filter-analog'
 date: 2015-12-12T01:38:03
 vimeo: https://vimeo.com/165095890
 pics: http://olf.space/post/ob-ject-and-ob-serve/#swipebox-gallery

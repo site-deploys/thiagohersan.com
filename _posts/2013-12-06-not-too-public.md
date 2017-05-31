@@ -3,6 +3,7 @@ layout: project
 category: project
 title: Not Too Public
 description: interactive public installation/intervention
+filters: 'filter-public-spaces'
 date: 2013-12-06T05:50:14
 github: https://github.com/thiagohersan/NotTooPublic
 collab: http://www.lo13.com/

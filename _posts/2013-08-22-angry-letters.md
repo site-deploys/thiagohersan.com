@@ -3,6 +3,7 @@ layout: project
 category: project
 title: Angry Letters
 description: performance/ritual
+filters: 'filter-analog'
 date: 2013-08-22T13:22:25
 github: https://github.com/thiagohersan/AngryLetters
 vimeo: https://vimeo.com/98120021

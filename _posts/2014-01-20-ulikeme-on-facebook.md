@@ -3,6 +3,7 @@ layout: project
 category: project
 title: uLikeMe (on facebook)
 description: online app
+filters: 'filter-internet'
 date: 2014-01-20T04:47:31
 github: https://github.com/thiagohersan/uLikeMe
 vimeo: https://vimeo.com/112552633

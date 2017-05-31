@@ -3,6 +3,7 @@ layout: project
 category: project
 title: 'CoDEPI: #EstoNoEsInternet'
 description: intangible installation
+filters: 'filter-astrovandalistas filter-public-spaces'
 date: 2014-11-15T21:47:15
 github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/accionesterritoriales/

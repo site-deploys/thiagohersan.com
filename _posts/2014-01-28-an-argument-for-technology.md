@@ -3,6 +3,7 @@ layout: project
 category: project
 title: An Argument For Technology
 description: installation
+filters: 'filter-astrovandalistas filter-megaphone'
 date: 2014-01-28T15:56:54
 github: https://github.com/astrovandalistas/AFT
 vimeo: https://vimeo.com/85982338
