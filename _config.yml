@@ -5,8 +5,9 @@ author: Thiago Hersan
 
 # URL
 url: http://thiagohersan.com
-baseurl: /
+baseurl: ''
 permalink: project/:title/
+include: ['_pages']
 
 # Build settings
 markdown: kramdown

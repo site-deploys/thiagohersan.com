@@ -1,5 +1,6 @@
 ---
 layout: project
+permalink: '/'
 title: 'Thiago Hersan'
 description: 'projects and stuff'
 cover: /images/covers/tgh.jpg

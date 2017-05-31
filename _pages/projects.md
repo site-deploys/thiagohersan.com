@@ -1,6 +1,7 @@
 ---
 layout: list
+permalink: 'projects'
 title: 'Thiago Hersan'
-description: Collaborations
+description: Projects
 cover: /images/covers/tgh.jpg
 ---
