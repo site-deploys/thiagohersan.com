@@ -88,15 +88,15 @@ body {
   display: flex;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
 
   max-width: $ONE-COLUMN;
   @include media-query(TWO) {
-    max-width: $TWO-COLUMNS;
+    max-width: $TWO-COLUMNS+$LIST-IMAGE-SPACING;
   }
   @include media-query(THREE) {
-    max-width: $THREE-COLUMNS;
+    max-width: $THREE-COLUMNS+$LIST-IMAGE-SPACING;
   }
 
   img {
@@ -112,6 +112,7 @@ body {
   .project-list-item {
     height: $LIST-IMAGE-HEIGHT;
     margin-bottom: $LIST-IMAGE-SPACING;
+    padding: 0 $LIST-IMAGE-SPACING/2;
   }
 }
 
