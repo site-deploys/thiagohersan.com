@@ -3,7 +3,7 @@ layout: project
 category: project
 title: "Imaginario Inverso: Narrativas Hacia el Futuro"
 description: interactive public installation and transborder land intervention
-filters: 'filter-astrovandalistas filter-public-spaces'
+filters: 'filter-astrovandalistas filter-analog'
 date: 2015-11-21T01:38:03
 github: https://github.com/astrovandalistas/word_encoder
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
