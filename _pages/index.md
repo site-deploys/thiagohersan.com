@@ -6,7 +6,7 @@ description: 'projects and stuff'
 cover: /images/covers/tgh.jpg
 github: https://github.com/thiagohersan
 vimeo: https://vimeo.com/thiagohersan
-astros: http://www.astrovandalistas.cc/
+astros: http://astrovandalistas.cc/
 email: 'foo'
 ---
 I used to design circuits and improve semiconductor manufacturing technologies.
@@ -19,8 +19,8 @@ In 2012 I was the technical coordinator at [Marginalia+Lab](https://vimeo.com/ma
   </div>
 </div>
 
-More recently, I worked as a design-engineer at [BeatBots](http://www.beatbots.net/) in San Francisco, where we prototyped interactive robotic toys, and other things.
+More recently, I worked as a design-engineer at [BeatBots](http://www.beatbots.net/){:target="_blank"} in San Francisco, where we prototyped interactive robotic toys, and other things.
 
-In 2015, as a Researcher in Residence at FACT in Liverpool, I helped start and run [FACTLab](http://alab.space/) and the [Reading & Thinging](http://olf.space) study group.
+In 2015, as a Researcher in Residence at FACT in Liverpool, I helped start and run [FACTLab](http://fact.alab.space/){:target="_blank"} and the [Reading & Thinging](http://olf.alab.space){:target="_blank"} study group.
 
-I’m also part of [Astrovandalistas](http://www.astrovandalistas.cc/base/), an art+technology+activism collective based in Mexico City.
+I’m also part of [Astrovandalistas](http://astrovandalistas.cc/){:target="_blank"}, an art+technology+activism collective based in Mexico City.
