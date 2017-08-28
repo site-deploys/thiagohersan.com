@@ -7,6 +7,7 @@ filters: 'filter-astrovandalistas filter-public-spaces'
 date: 2014-11-15T21:47:15
 github: https://github.com/astrovandalistas/accionesterritoriales
 astros: http://astrovandalistas.cc/noesinternet/
+www: http://accionesterritoriales.blogspot.com.br/
 ---
 ![](/images/projects/codepi-estonoesinternet/ZocaloRouters.png)
 
