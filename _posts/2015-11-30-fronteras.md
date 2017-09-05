@@ -10,7 +10,7 @@ astros: http://astrovandalistas.cc/imaginario/
 ---
 ![](/images/projects/fronteras/laser00.jpg)
 
-*Imaginario Inverso* is a project that began during a residence in the border region between the states of Chihuahua in Mexico, and Texas and New Mexico in the United States. In this region, the city of Juárez/El Paso marks where the border between the two countries is no longer defined by the Rio Bravo and instead is formed by straight lines to the Pacific Ocean.
+*Imaginario Inverso* is a project that began during a residency in the border region between the states of Chihuahua in Mexico, and Texas and New Mexico in the United States. In this region, the city of Juárez/El Paso marks where the border between the two countries is no longer defined by the Rio Bravo and instead is formed by straight lines running to the Pacific Ocean.
 
 Less than an hour north of Juárez/El Paso is the White Sands Desert, where in 1945 the first nuclear bombs were tested. Then, during the space race of the 1960s, in the same desert, NASA built a spaceport and test center for rocket engines, where even today it maintains at least two emergency landing strips for its space shuttles.
 

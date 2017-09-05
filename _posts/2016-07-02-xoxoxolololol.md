@@ -4,7 +4,7 @@ category: project
 title: XOXOXOLOLOLOL
 description: installation, software and collective public intervention
 filters: 'filter-analog filter-internet'
-date: 2016-07-02T22:11:57
+date: 2026-07-02T22:11:57
 github: https://github.com/thiagohersan/XOXOXOLOLOLOL
 vimeo: https://vimeo.com/171869957
 www: http://tmp.thiagohersan.com/tmp/XOXOXOLOLOLOL/xoxoxolololol.pdf
