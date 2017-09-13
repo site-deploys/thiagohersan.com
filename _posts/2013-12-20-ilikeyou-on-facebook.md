@@ -7,7 +7,7 @@ filters: 'filter-internet'
 date: 2013-12-20T03:32:06
 github: https://github.com/thiagohersan/iLikeYou
 vimeo: https://vimeo.com/83561856
-www: http://app.thiagohersan.com/iLikeYou/
+www: http://ilikeyou.thiagohersan.com/
 ---
 Anyone who understands big data will agree that: 
 
@@ -16,7 +16,7 @@ Anyone who understands big data will agree that:
 </div>
 
 <div class="inline-image-container" markdown="1">
-  iLikeYou (on facebook) is a [web app](http://app.thiagohersan.com/iLikeYou/){:target="_blank"} designed to help us quantify our feelings towards each other. It  goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
+  iLikeYou (on facebook) is a [web app](http://ilikeyou.thiagohersan.com/){:target="_blank"} designed to help us quantify our feelings towards each other. It  goes through facebook data and tries to ![](/images/projects/ilikeyou-on-facebook/like.png) every post, picture and comment published by, or tagged with, a chosen friend.
 </div>
 
 <div class="inline-image-container" markdown="1">
