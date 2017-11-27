@@ -13,7 +13,7 @@ www: http://ulikeme.thiagohersan.com/
 
 If a tweet falls in the woods...
 
-In a post-privacy world where information about ourselves is shared (and [gathered](http://www.youtube.com/watch?v=vILAlhwUgIU)) at astonishing speeds and quantities, how can we ensure that our online personalities are actually being appreciated by our intended audience of friends and family, and not just being used for advertising and surveillance purposes? Can we tell when we're just talking to ourselves?
+In a post-privacy world where information about ourselves is shared (and [gathered](https://www.youtube.com/watch?v=vILAlhwUgIU)) at astonishing speeds and quantities, how can we ensure that our online personalities are actually being appreciated by our intended audience of friends and family, and not just being used for advertising and surveillance purposes? Can we tell when we're just talking to ourselves?
 
 uLikeMe (on facebook) is a [web app](http://ulikeme.thiagohersan.com/){:target="_blank"} inspired by the recently-disclosed surveillance systems used by the NSA to keep track of special citizens.
 

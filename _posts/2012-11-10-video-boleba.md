@@ -14,7 +14,7 @@ In October of 2012 I helped Brazilian performance and video artist Celina Portel
 Video Boleba is an electro-mechanical video installation that blurs the boundary between representation and reality. It consists of a 2-hour video of kids shooting marbles out of the corner of the screen, and a machine that shoots real marbles from behind the television.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="http://www.youtube.com/embed/7qkE40LC90s" frameborder="0" allowfullscreen=""></iframe>
+    <iframe src="https://www.youtube.com/embed/7qkE40LC90s" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 The marble-shooting mechanism was developed by **Steger Produção De Efeitos Especiais**, a special effects production company in São Paulo. I was responsible for synchronizing the video with the marble shooting machine.

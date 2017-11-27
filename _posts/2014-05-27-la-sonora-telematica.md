@@ -6,7 +6,7 @@ description: collaborative installation
 filters: 'filter-astrovandalistas filter-public-spaces filter-megaphone'
 date: 2014-05-27T15:05:15
 github: https://github.com/astrovandalistas/LaSonoraMontreal
-astros: http://astrovandalistas.cc/lasonora/
+astros: https://astrovandalistas.cc/lasonora/
 ---
 ![](/images/projects/la-sonora-telematica/s_LaSonora02_bw.jpg)
 

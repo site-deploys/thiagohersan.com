@@ -7,7 +7,7 @@ filters: 'filter-astrovandalistas filter-internet'
 date: 2013-07-24T16:06:04
 github: https://github.com/astrovandalistas/AEffect-Lab
 vimeo: https://vimeo.com/77366588
-astros: http://astrovandalistas.cc/aeffect/
+astros: https://astrovandalistas.cc/aeffect
 ---
 ![](/images/projects/aeffectlab/IMG_0264.jpg)
 

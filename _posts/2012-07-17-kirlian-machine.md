@@ -25,7 +25,7 @@ This worked pretty well, and we made some fun sparks with it, but since the sign
 
 <div class="video-wrapper-small">
   <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="http://www.youtube.com/embed/BvtqCPFPWos" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/BvtqCPFPWos" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 

@@ -10,7 +10,7 @@ www: http://gutorequena.com.br/site/work/objects/n-ize-chair/11/
 collab: http://gutorequena.com.br/
 ---
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="http://player.vimeo.com/video/45568573" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+    <iframe src="//player.vimeo.com/video/45568573" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 These chairs were the second project in a series of collaborations with [Estudio Guto Requena](http://www.gutorequena.com.br/) in the beginning of 2012, that combined sound, design and digital fabrication processes to create furniture and decorative objects. 

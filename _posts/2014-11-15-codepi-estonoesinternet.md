@@ -6,12 +6,12 @@ description: intangible installation
 filters: 'filter-astrovandalistas filter-public-spaces'
 date: 2014-11-15T21:47:15
 github: https://github.com/astrovandalistas/accionesterritoriales
-astros: http://astrovandalistas.cc/noesinternet/
+astros: https://astrovandalistas.cc/noesinternet/
 www: http://accionesterritoriales.blogspot.com.br/
 ---
 ![](/images/projects/codepi-estonoesinternet/ZocaloRouters.png)
 
-In 2014 the [Astrovadalistas](http://astrovandalistas.cc/) collective started CoDEPI: Comisión de Discusión sobre el Espacio Público Intangible (Commission for the Discussion of Intangible Public Spaces) to coordinate actions related to telecommunication access and autonomy.
+In 2014 the [Astrovadalistas](https://astrovandalistas.cc/) collective started CoDEPI: Comisión de Discusión sobre el Espacio Público Intangible (Commission for the Discussion of Intangible Public Spaces) to coordinate actions related to telecommunication access and autonomy.
 
 ![](/images/projects/codepi-estonoesinternet/CODEPI_logo.png)
 

@@ -20,7 +20,7 @@ From the [project description](http://gutorequena.com.br/site/work/objects/once-
 The vases were first shown at the Milan Design Week, in April of 2012.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe src="http://www.youtube.com/embed/_6sP0GaexPI" allowfullscreen="" frameborder="0"></iframe>
+    <iframe src="https://www.youtube.com/embed/_6sP0GaexPI" allowfullscreen="" frameborder="0"></iframe>
 </div>
 
 I was responsible for writing code to generate 2D visualizations of the audio files using simple envelope and filtering techniques.

@@ -22,7 +22,7 @@ Cosmic Debris is different from other audiovisual performances because it doesn'
 Here's a short video of some initial tests that we conducted at Marginalia+Lab in July of 2012.
 
 <div class="video-wrapper video-wrapper-16x9">
-    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="http://player.vimeo.com/video/46084655?title=0&byline=0&portrait=0" webkitallowfullscreen=""></iframe>
+    <iframe allowfullscreen="" frameborder="0" mozallowfullscreen="" src="//player.vimeo.com/video/46084655?title=0&byline=0&portrait=0" webkitallowfullscreen=""></iframe>
 </div>
 
 A version of this project was presented in 2012 at the Cidade Eletronika Festival in Belo Horizonte, Brazil. For this performance, I had the pleasure of working with Yuri Vellasco, who composed a soundtrack and created some live instrumentation for the visuals, and Aline X, who provided visual materials for the piece as well as conceptual and practical guidance.

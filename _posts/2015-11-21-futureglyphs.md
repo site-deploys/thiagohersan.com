@@ -8,7 +8,7 @@ date: 2015-11-21T01:38:03
 github: https://github.com/astrovandalistas/word_encoder
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: http://rubin.utep.edu/index.php/past1/68
-astros: http://astrovandalistas.cc/futureglyphs/
+astros: https://astrovandalistas.cc/futureglyphs/
 ---
 ![](/images/projects/futureglyphs/laser01.jpg)
 

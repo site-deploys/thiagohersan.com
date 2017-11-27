@@ -9,7 +9,7 @@ github: https://github.com/astrovandalistas/TerritoryOfTheImaginario
 pics: http://rubin.utep.edu/index.php/current1/95#sigProId28f27b4199
 www: http://rubin.utep.edu/index.php/past1/68
 vimeo: https://vimeo.com/165527282
-astros: http://astrovandalistas.cc/imaginario/
+astros: https://astrovandalistas.cc/imaginario/
 ---
 ![](/images/projects/laser-chat-fronterizo/exteresa01.jpg)
 
