@@ -4,7 +4,7 @@ description: Thiago Hersan
 author: Thiago Hersan
 
 # URL
-url: https://thiagohersan.com
+url: https://2016.thiagohersan.com
 baseurl: ''
 permalink: project/:title/
 include: ['_pages']
