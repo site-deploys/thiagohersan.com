@@ -11,7 +11,7 @@ collab: http://www.interspecifics.cc/
 ---
 ![](/images/projects/geobacter-micropulse/geobacter00.jpg)
 
-Project done as part of the [Interspecifics](http://www.interspecifics.cc/) collective.
+This project was done with the [Interspecifics](http://www.interspecifics.cc/) collective.
 
 Geobacter Micropulse is a sound spatialization system controlled by patterns generated from voltage variations in microbial fuel cells. The system selects different synthesizer sounds and channel configurations based on a machine learning recognition system written in Python and running on a Raspberry Pi. This produces a kind of graphic score that is generated autonomously and in real time.
 

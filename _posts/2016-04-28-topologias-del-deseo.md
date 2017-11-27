@@ -12,7 +12,7 @@ collab: http://www.interspecifics.cc/
 ---
 ![](/images/projects/topologias-del-deseo/topologia04.jpg)
 
-Project done as part of the [Interspecifics](http://www.interspecifics.cc/) collective.
+This project was done with the [Interspecifics](http://www.interspecifics.cc/) collective.
 
 What role does history play in conditioning our social desires?
 
